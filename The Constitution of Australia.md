@@ -69,6 +69,7 @@
         * [50. Rules and orders.](#50-rules-and-orders)
     * [Part V.—Powers of the Parliament.](#part-vpowers-of-the-parliament)
         * [51. Legislative powers of the Parliament.](#51-legislative-powers-of-the-parliament)
+        * [51a. Power to make laws with respect to monopolies.](#51-power-to-make-laws-with-respect-to-monopolies)
         * [52. Exclusive powers of the Parliament.](#52-exclusive-powers-of-the-parliament)
         * [53. Powers of the Houses in respect of legislation.](#53-powers-of-the-houses-in-respect-of-legislation)
         * [54. Appropriation Bills.](#54-appropriation-bills)
@@ -905,6 +906,16 @@ Constitution in the Parliament or in either House thereof, or in the
 Government of the Commonwealth, or in the Federal Judicature, or in any
 department or officer of the Commonwealth.
 
+#### 51a. Power to make laws with respect to monopolies.
+
+When each House of the Parliament, in the same Power to make laws with session, 
+has by Resolution declared that the industry or business of producing 
+manufacturing or supplying any specified goods, or of supplying any specified 
+services, is the subject of a monopoly, the Parliament shall have power to make 
+laws for carrying on the industry or business by or under the control of the 
+Commonwealth, and acquiring for that purpose on just terms any property used in 
+connexion with the industry or business.
+ 
 #### 52. Exclusive powers of the Parliament.
 
 The Parliament shall, subject to this Constitution, have exclusive power
