@@ -852,6 +852,11 @@ parental rights, and the custody and guardianship of infants:
 
 (xxiii.) Invalid and old-age pensions:
 
+(xxiiiA.) the provision of maternity allowances, widows' pensions, child 
+endowment, unemployment, pharmaceutical, sickness and hospital benefits, 
+medical and dental services (but not so as to authorize any form of civil 
+conscription), benefits to students and family allowances:
+
 (xxiv.) The service and execution throughout the Commonwealth of the
 civil and criminal process and the judgments of the courts of the
 States:
