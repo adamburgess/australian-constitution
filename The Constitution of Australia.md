@@ -1871,8 +1871,8 @@ manner:—
 The proposed law for the alteration thereof must be passed by an
 absolute majority of each House of the Parliament, and not less than two
 nor more than six months after its passage through both Houses the
-proposed law shall be submitted in each State to the electors qualified
-to vote for the election of members of the House of Representatives.
+proposed law shall be submitted in each State and Territory to the electors
+qualified to vote for the election of members of the House of Representatives.
 
 But if either House passes any such proposed law by an absolute
 majority, and the other House rejects or fails to pass it or passes it
@@ -1885,8 +1885,8 @@ pass it or passes it with any amendment to which the first-mentioned
 House will not agree, the Governor‑General may submit the proposed law
 as last proposed by the first‑mentioned House, and either with or
 without any amendments subsequently agreed to by both Houses, to the
-electors in each State qualified to vote for the election of the House
-of Representatives.
+electors in each State and Territory qualified to vote for the election
+of the House of Representatives.
 
 When a proposed law is submitted to the electors the vote shall be taken
 in such manner as the Parliament prescribes. But until the qualification
@@ -1907,6 +1907,10 @@ increasing, diminishing, or otherwise altering the limits of the State,
 or in any manner affecting the provisions of the Constitution in
 relation thereto, shall become law unless the majority of the electors
 voting in that State approve the proposed law.
+ 
+In this section, 'Territory' means any territory referred to in section
+one hundred and twenty-two of this Constitution in respect of which there
+is in force a law allowing its representation in the House of Representatives.
 
 ## SCHEDULE.
 
