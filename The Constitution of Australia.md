@@ -1574,8 +1574,7 @@ from other States.
 
 #### 105. Taking over public debts of States.
 
-The Parliament may take over from the States their public debts as
-existing at the establishment of the Commonwealth, or a proportion
+The Parliament may take over from the States their public debts, or a proportion
 thereof according to the respective numbers of their people as shown by
 the latest statistics of the Commonwealth, and may convert, renew, or
 consolidate such debts, or any part thereof; and the States shall
