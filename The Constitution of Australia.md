@@ -796,7 +796,7 @@ The Parliament shall, subject to this Constitution, have power to make
 laws for the peace, order, and good government of the Commonwealth with
 respect to:—
 
-(i.) Trade and commerce with other countries, and among the States:
+(i.) Trade and commerce:
 
 (ii.) Taxation; but so as not to discriminate between States or parts of
 States:
@@ -841,8 +841,16 @@ extending beyond the limits of the State concerned:
 
 (xix.) Naturalization and aliens:
 
-(xx.) Foreign corporations, and trading or financial corporations formed
-within the limits of the Commonwealth:
+(xx.) Corporations, including—
+
+(a) the creation, dissolution, regulation, and control of corporations;
+
+(b) corporations formed under the law of a State (except any corporation formed 
+solely for religious, charitable, scientific or artistic purposes, and not for 
+the acquisition of gain by the corporation or its members), including their 
+dissolution, regulation, and control; and
+
+(c) foreign corporations, including their regulation and control:
 
 (xxi.) Marriage:
 
@@ -883,8 +891,13 @@ of the State on terms arranged between the Commonwealth and the State:
 (xxxiv.) Railway construction and extension in any State with the
 consent of that State:
 
-(xxxv.) Conciliation and arbitration for the prevention and settlement
-of industrial disputes extending beyond the limits of any one State:
+(xxxv.) Labour and employment, including—
+
+(a) the wages and conditions of labour and employment in any trade industry or 
+calling; and
+
+(b) the prevention and settlement of industrial disputes, including disputes in 
+relation to employment on or about railways the property of any State:
 
 (xxxvi.) Matters in respect of which this Constitution makes provision
 until the Parliament otherwise provides:
@@ -903,7 +916,10 @@ Council of Australasia:
 (xxxix.) Matters incidental to the execution of any power vested by this
 Constitution in the Parliament or in either House thereof, or in the
 Government of the Commonwealth, or in the Federal Judicature, or in any
-department or officer of the Commonwealth.
+department or officer of the Commonwealth:
+
+(xl.) Combinations and monopolies in relation to the production, manufacture, 
+or supply of goods or services.
 
 #### 52. Exclusive powers of the Parliament.
 
