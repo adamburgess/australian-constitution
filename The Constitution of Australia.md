@@ -151,7 +151,6 @@
 * [Chapter VII.—Miscellaneous.](#chapter-viimiscellaneous)
     * [125. Seat of Government.](#125-seat-of-government)
     * [126. Power to Her Majesty to authorise Governor-General to appoint deputies.](#126-power-to-her-majesty-to-authorise-governor-general-to-appoint)
-    * [127. Aborigines not to be counted in reckoning population.](#127-aborigines-not-to-be-counted-in-reckoning-population)
 * [Chapter VIII.—Alteration of the Constitution.](#chapter-viiialteration-of-the-constitution)
     * [128. Mode of altering the Constitution.](#128-mode-of-altering-the-constitution)
 * [SCHEDULE.](#schedule)
@@ -864,8 +863,7 @@ States:
 (xxv.) The recognition throughout the Commonwealth of the laws, the
 public Acts and records, and the judicial proceedings of the States:
 
-(xxvi.) The people of any race, other than the aboriginal race in any
-State, for whom it is deemed necessary to make special laws:
+(xxvi.) The people of any race for whom it is deemed necessary to make special laws:
 
 (xxvii.) Immigration and emigration:
 
@@ -1802,12 +1800,6 @@ Governor-General as he thinks fit to assign to such deputy or deputies,
 subject to any limitations expressed or directions given by the Queen;
 but the appointment of such deputy or deputies shall not affect the
 exercise by the Governor-General himself of any power or function.
-
-#### 127. Aborigines not to be counted in reckoning population.
-
-In reckoning the numbers of the people of the Commonwealth, or of a
-State or other part of the Commonwealth, aboriginal natives shall not be
-counted.
 
 ## Chapter VIII.—Alteration of the Constitution.
 
