@@ -1383,6 +1383,18 @@ towards its expenditure.
 The balance shall, in accordance with this Constitution, be paid to the
 several States, or applied towards the payment of interest on debts of
 the several States taken over by the Commonwealth.
+ 
+ #### 87a.
+ 
+ (1.) Notwithstanding anything in section eighty seven of this Constitution,
+ the Commonwealth may in the year beginning on the first day of July,
+ One thousand nine hundred and nine, out of the net revenue of the Commonwealth
+ from duties of customs and of excise, apply towards its expenditure for the service
+ of that year any sum not exceeding Six hundred thousand pounds over and above
+ one-fourth Of the said net revenue.
+ 
+ (2.) From and after the thirtieth day of June, One thousand nine hundred and ten,
+ section eighty seven of this Constitution shall cease to have effect.
 
 #### 88. Uniform duties of customs.
 
@@ -1466,6 +1478,34 @@ After five years from the imposition of uniform duties of customs, the
 Parliament may provide, on such basis as it deems fair, for the monthly
 payment to the several State of all surplus revenue of the Commonwealth.
 
+#### 94a.
+
+From and after the thirtieth day of June, One thousand nine hundred and ten, 
+sections ninety three and ninety four of this Constitution shall cease to have 
+effect.
+
+#### 94b.
+
+From and after the first day of July, One thousand nine hundred and ten, the 
+Commonwealth shall pay to each State, by monthly instalments, or apply to the 
+payment of interest on debts of the State taken over by the Commonwealth, an 
+annual sum amounting to Twenty five shillings per head of the number of the 
+people of the State as ascertained according to the laws of the Commonwealth.
+
+#### 94c.
+
+(1.) The Commonwealth shall, during the period of twenty five years beginning 
+on the first day of July, One thousand nine hundred and ten, pay to the State 
+of Western Australia, by monthly instalments, an annual sum which in the first 
+year shall be two hundred and fifty thousand pounds, and in each subsequent 
+year shall be progressively diminished by the sum of ten thousand. pounds.
+
+(2.) One half of the amount of the payments so made shall be debited to all the 
+States (including the State of Western Australia) in proportion to the number 
+of their people as ascertained according to the laws of the Commonwealth, and 
+any sum so debited to a State may be deducted by the Commonwealth from any 
+amounts payable to the State under the last preceding section or this section.
+ 
 #### 95. Customs duties of Western Australia.
 
 Notwithstanding anything in this Constitution, the Parliament of the
@@ -1579,12 +1619,12 @@ existing at the establishment of the Commonwealth, or a proportion
 thereof according to the respective numbers of their people as shown by
 the latest statistics of the Commonwealth, and may convert, renew, or
 consolidate such debts, or any part thereof; and the States shall
-indemnify the Commonwealth in respect of the debts taken over, and
-thereafter the interest payable in respect of the debts shall be
-deducted and retained from the portions of the surplus revenue of the
-Commonwealth payable to the several States, or if such surplus is
-insufficient, or if there is no surplus, then the deficiency or the
-whole amount shall be paid by the several States.
+indemnify the Commonwealth in respect of the debts taken over.
+
+The interest and charges 'payable by the Commonwealth, in respect of the debts 
+of a State taken over, may be deducted and retained from any moneys payable to 
+the State under this Constitution, and shall, to the extent to which they are 
+not so deducted and retained,' be paid by the State to the Commonwealth.
 
 ## Chapter V.—The States.
 
