@@ -126,6 +126,7 @@
     * [103. Commissioners' appointment, tenure, and remuneration.](#103-commissioners-appointment-tenure-and-remuneration)
     * [104. Saving of certain rates.](#104-saving-of-certain-rates)
     * [105. Taking over public debts of States.](#105-taking-over-public-debts-of-states)
+    * [105A. Agreements with respect to State debts.](#105a-agreements-with-respect-to-state-debts)
 * [Chapter V.—The States.](#chapter-vthe-states)
     * [106. Saving of Constitutions.](#106-saving-of-constitutions)
     * [107. Saving of Power of State Parliaments.](#107-saving-of-power-of-state-parliaments)
@@ -1584,6 +1585,43 @@ deducted and retained from the portions of the surplus revenue of the
 Commonwealth payable to the several States, or if such surplus is
 insufficient, or if there is no surplus, then the deficiency or the
 whole amount shall be paid by the several States.
+
+ #### 105A. Agreements with respect to State debts.
+
+* (1.)  The Commonwealth may make agreements with the States with respect to 
+        the public debts of the States, including—
+
+  * (a)  the taking over of such debts by the Commonwealth;
+
+  * (b)  the management of such debts;
+
+  * (c)  the payment of interest and the provision and management of sinking 
+         funds in respect of such debts;
+
+  * (d)  the consolidation, renewal, conversion, and redemption of such debts;
+
+  * (e)  the indemnification of the Commonwealth by the States in respect of 
+         debts taken over by the Commonwealth; and
+
+  * (f)  the borrowing of money by the States or by the Commonwealth, or by the 
+         Commonwealth for the States.
+
+* (2.)  The Parliament may make laws for validating any such agreement made 
+        before the commencement of this section.
+
+* (3.)  The Parliament may make laws for the carrying out by the parties 
+        thereto of any such agreement.
+
+* (4.)  Any such agreement may be varied or rescinded by the parties thereto.
+
+* (5.)  Every such agreement and any such variation thereof shall be binding 
+  upon the Commonwealth and the States parties thereto notwithstanding anything 
+  contained in this Constitution or the Constitution of the several States or in 
+  any law of the Parliament of the Commonwealth or of any State.
+
+* (6.)  The powers conferred by this section shall not be construed as being 
+  limited in any way by the provisions of section one hundred and five of this 
+  Constitution.
 
 ## Chapter V.—The States.
 
