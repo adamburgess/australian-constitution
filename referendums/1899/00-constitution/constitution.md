@@ -170,7 +170,7 @@ Queen:
 Be it therefore enacted by the Queen's most Excellent Majesty, by and
 with the advice and consent of the Lords Spiritual and Temporal, and
 Commons, in this present Parliament assembled, and by the authority of
-the same, as follows:---
+the same, as follows:—
 
 #### 1\. Short title.
 
@@ -214,12 +214,9 @@ are in the Commonwealth.
 
 #### 6\. Definitions.
 
-::: {.Definition}
 "The Commonwealth" shall mean the Commonwealth of Australia as
 established under this Act.
-:::
 
-::: {.Definition}
 "The States" shall mean such of the colonies of New South Wales, New
 Zealand, Queensland, Tasmania, Victoria, Western Australia, and South
 Australia, including the northern territory of South Australia, as for
@@ -227,12 +224,9 @@ the time being are parts of the Commonwealth, and such colonies or
 territories as may be admitted into or established by the Commonwealth
 as States; and each of such parts of the Commonwealth shall be called "a
 State."
-:::
 
-::: {.Definition}
 "Original States" shall mean such States as are parts of the
 Commonwealth at its establishment.
-:::
 
 #### 7\. Repeal of Federal Council Act.
 
@@ -253,43 +247,30 @@ purposes of that Act.
 
 #### 9\. Constitution.
 
-The Constitution of the Commonwealth shall be as follows:---
+The Constitution of the Commonwealth shall be as follows:—
 
-The Constitution.
+##### The Constitution.
 
-This Constitution is divided as follows:---
+This Constitution is divided as follows:—
 
-Chapter I. The Parliament:
+* Chapter I. The Parliament:
+  * Part I. General:
+  * Part II. The Senate:
+  * Part III. The House of Representatives:
+  * Part IV. Both Houses of the Parliament:
+  * Part V. Powers of the Parliament:
+* Chapter II. The Executive Government:
+* Chapter III. The Judicature:
+* Chapter IV. Finance and Trade:
+* Chapter V. The States:
+* Chapter VI. New States:
+* Chapter VII. Miscellaneous:
+* Chapter VIII. Alteration of the Constitution.
+* The Schedule.
 
-> Part I. General:
->
-> Part II. The Senate:
->
-> Part III. The House of Representatives:
->
-> Part IV. Both Houses of the Parliament:
->
-> Part V. Powers of the Parliament:
+## Chapter I.—The Parliament.
 
-Chapter II. The Executive Government:
-
-Chapter III. The Judicature:
-
-Chapter IV. Finance and Trade:
-
-Chapter V. The States:
-
-Chapter VI. New States:
-
-Chapter VII. Miscellaneous:
-
-Chapter VIII. Alteration of the Constitution.
-
-The Schedule.
-
-## Chapter I.---The Parliament.
-
-### Part I.---General.
+### Part I.—General.
 
 #### 1\. Legislative Power.
 
@@ -351,7 +332,7 @@ There shall be a session of the Parliament once at least in every year,
 so that twelve months shall not intervene between the last sitting of
 the Parliament in one session and its first sitting in the next session.
 
-Part II.---The Senate.
+Part II.—The Senate.
 
 7\. The Senate.
 
@@ -521,7 +502,7 @@ votes, and each senator shall have one vote. The President shall in all
 cases be entitled to a vote; and when the votes are equal the question
 shall pass in the negative.
 
-Part III.---The House of Representatives.
+Part III.—The House of Representatives.
 
 24\. Constitution of House of Representatives.
 
@@ -532,7 +513,7 @@ shall be, as nearly as practicable, twice the number of the senators.
 The number of members chosen in the several States shall be in
 proportion to the respective numbers of their people, and shall, until
 the Parliament otherwise provides, be determined, whenever necessary, in
-the following manner:---
+the following manner:—
 
 (i.) A quota shall be ascertained by dividing the number of the people
 of the Commonwealth, as shown by the latest statistics of the
@@ -568,7 +549,7 @@ to be chosen in each State at the first election shall be as follows:
   Tasmania\...\...\...\...\...\...\...\...\...\...\...\...\.....      five;
 
 Provided that if Western Australia is an Original State, the numbers
-shall be as follows:---
+shall be as follows:—
 
   New South Wales\...\...\...\...\...\...\...\...\...                 twenty-six;
   ------------------------------------------------------------------- ---------------
@@ -635,7 +616,7 @@ Council may issue the writ.
 34\. Qualifications of members.
 
 Until the Parliament otherwise provides, the qualifications of a member
-of the House of Representatives shall be as follows:---
+of the House of Representatives shall be as follows:—
 
 (i.) He must be of the full age of twenty-one years, and must be an
 elector entitled to vote at the election of members of the house of
@@ -691,7 +672,7 @@ a majority of votes other than that of the Speaker. The Speaker shall
 not vote unless the numbers are equal, and then he shall have a casting
 vote.
 
-Part IV.---Both Houses of the Parliament.
+Part IV.—Both Houses of the Parliament.
 
 41\. Right of electors of States.
 
@@ -714,7 +695,7 @@ chosen or of sitting as a member of the other House.
 
 44\. Disqualification.
 
-Any person who---
+Any person who—
 
 (i.) Is under any acknowledgment of allegiance, obedience, or adherence
 to a foreign power, or is a subject or a citizen or entitled to the
@@ -749,7 +730,7 @@ employed by the Commonwealth.
 
 45\. Vacancy on happening of disqualification.
 
-If a senator or member of the House of Representatives---
+If a senator or member of the House of Representatives—
 
 (i.) Becomes subject to any of the disabilities mentioned in the last
 preceding section: or
@@ -797,7 +778,7 @@ Commonwealth.
 50\. Rules and orders.
 
 Each House of the Parliament may make rules and orders with respect
-to---
+to—
 
 (i.) The mode in which its powers, privileges, and immunities may be
 exercised and upheld:
@@ -805,13 +786,13 @@ exercised and upheld:
 (ii.) The order and conduct of its business and proceedings either
 separately or jointly with the other House.
 
-Part V.---Powers of the Parliament.
+Part V.—Powers of the Parliament.
 
 51\. Legislative powers of the Parliament.
 
 The Parliament shall, subject to this Constitution, have power to make
 laws for the peace, order, and good government of the Commonwealth with
-respect to:---
+respect to:—
 
 (i.) Trade and commerce with other countries, and among the States:
 
@@ -926,7 +907,7 @@ department or officer of the Commonwealth.
 
 The Parliament shall, subject to this Constitution, have exclusive power
 to make laws for the peace, order, and good government of the
-Commonwealth with respect to---
+Commonwealth with respect to—
 
 (i.) The seat of government of the Commonwealth, and all places acquired
 by the Commonwealth for public purposes:
@@ -1055,7 +1036,7 @@ Governor-General makes known, by speech or message to each of the Houses
 of the Parliament, or by Proclamation, that it has received the Queen's
 assent.
 
-Chapter II.---The Executive Government.
+Chapter II.—The Executive Government.
 
 61\. Executive power.
 
@@ -1128,7 +1109,7 @@ representative.
 On a date or dates to be proclaimed by the Governor‑General after the
 establishment of the Commonwealth the following departments of the
 public service in each State shall become transferred to the
-Commonwealth:---
+Commonwealth:—
 
 Posts, telegraphs, and telephones:
 
@@ -1152,7 +1133,7 @@ Governor-General, or in the Governor‑General in Council, or in the
 authority exercising similar powers under the Commonwealth, as the case
 requires.
 
-Chapter III.---The Judicature.
+Chapter III.—The Judicature.
 
 71\. Judicial power and Courts.
 
@@ -1166,7 +1147,7 @@ Parliament prescribes.
 72\. Judges' appointment, tenure, and remuneration.
 
 The Justices of the High Court and of the other courts created by the
-Parliament---
+Parliament—
 
 (i.) Shall be appointed by the Governor-General in Council:
 
@@ -1183,7 +1164,7 @@ office.
 
 The High Court shall have jurisdiction, with such exceptions and subject
 to such regulations as the Parliament prescribes, to hear and determine
-appeals from all judgments, decrees, orders, and sentences---
+appeals from all judgments, decrees, orders, and sentences—
 
 (i.) Of any Justice or Justices exercising the original jurisdiction of
 the High Court:
@@ -1233,7 +1214,7 @@ Majesty's pleasure.
 
 75\. Original jurisdiction of High Court.
 
-In all matters---
+In all matters—
 
 (i.) Arising under any treaty:
 
@@ -1253,7 +1234,7 @@ the High Court shall have original jurisdiction.
 76\. Additional original jurisdiction.
 
 The Parliament may make laws conferring original jurisdiction on the
-High court in any matter---
+High court in any matter—
 
 (i.) Arising under this Constitution, or involving its interpretation:
 
@@ -1267,7 +1248,7 @@ different States.
 77\. Power to define jurisdiction.
 
 With respect to any of the matters mentioned in the last two sections
-the Parliament may make laws---
+the Parliament may make laws—
 
 (i.) Defining the jurisdiction of any federal court other than the High
 Court:
@@ -1297,7 +1278,7 @@ State where the offence was committed, and if the offence was not
 committed within any State the trial shall be held at such place or
 places as the Parliament prescribes.
 
-Chapter IV.---Finance and Trade.
+Chapter IV.—Finance and Trade.
 
 81\. Consolidated Revenue Fund.
 
@@ -1358,7 +1339,7 @@ Commonwealth and were retained in the service of the Commonwealth.
 85\. Transfer of property of State.
 
 When any department of the public service of a State is transferred to
-the Commonwealth---
+the Commonwealth—
 
 (i.) All property of the State of any kind, used exclusively in
 connexion with the department, shall become vested in the Commonwealth;
@@ -1408,12 +1389,12 @@ establishment of the Commonwealth.
 
 89\. Payment to States before uniform duties.
 
-Until the imposition of uniform duties of customs---
+Until the imposition of uniform duties of customs—
 
 (i.) The Commonwealth shall credit to each State the revenues collected
 therein by the Commonwealth.
 
-(ii.) The Commonwealth shall debit to each State---
+(ii.) The Commonwealth shall debit to each State—
 
 *(a)* The expenditure therein of the Commonwealth incurred solely for
 the maintenance or continuance, as at the time of transfer, of any
@@ -1464,7 +1445,7 @@ respect of the goods on their importation.
 93\. Payment to States for five years after uniform Tariffs.
 
 During the first five years after the imposition of uniform duties of
-customs, and thereafter until the Parliament otherwise provides---
+customs, and thereafter until the Parliament otherwise provides—
 
 (i.) The duties of customs chargeable on goods imported into a State and
 afterwards passing into another State for consumption, and the duties of
@@ -1567,7 +1548,7 @@ unless so adjudged by the Inter-State Commission.
 
 103\. Commissioners' appointment, tenure, and remuneration.
 
-The members of the Inter-State Commission---
+The members of the Inter-State Commission—
 
 (i.) Shall be appointed by the Governor-General in Council:
 
@@ -1603,7 +1584,7 @@ Commonwealth payable to the several States, or if such surplus is
 insufficient, or if there is no surplus, then the deficiency or the
 whole amount shall be paid by the several States.
 
-Chapter V.---The States.
+Chapter V.—The States.
 
 106\. Saving of Constitutions.
 
@@ -1714,7 +1695,7 @@ Commonwealth, and for the punishment of persons convicted of such
 offences, and the Parliament of the Commonwealth may make laws to give
 effect to this provision.
 
-Chapter VI.---New States.
+Chapter VI.—New States.
 
 121\. New States may be admitted or established.
 
@@ -1749,7 +1730,7 @@ only with the consent of the Parliament thereof, and a new State may be
 formed by the union of two or more States or parts of States, but only
 with the consent of the Parliaments of the States affected.
 
-Chapter VII.---Miscellaneous.
+Chapter VII.—Miscellaneous.
 
 125\. Seat of Government.
 
@@ -1784,12 +1765,12 @@ In reckoning the numbers of the people of the Commonwealth, or of a
 State or other part of the Commonwealth, aboriginal natives shall not be
 counted.
 
-Chapter VIII.---Alteration of the Constitution.
+Chapter VIII.—Alteration of the Constitution.
 
 128\. Mode of altering the Constitution.
 
 This Constitution shall not be altered except in the following
-manner:---
+manner:—
 
 The proposed law for the alteration thereof must be passed by an
 absolute majority of each House of the Parliament, and not less than two
@@ -1845,6 +1826,6 @@ I, *A.B.,* do solemnly and sincerely affirm and declare that I will be
 faithful and bear true allegiance to Her Majesty Queen Victoria, Her
 heirs and successors according to law.
 
-(NOTE.---*The name of the King or Queen of the United Kingdom of Great
+(NOTE.—*The name of the King or Queen of the United Kingdom of Great
 Britain and Ireland for the time being is to be substituted from time to
 time.)*
