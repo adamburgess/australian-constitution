@@ -1,4 +1,5 @@
 ---
+name: Senate Elections
 outcome: carried
 states: '6:0'
 percentage_for: 82.65

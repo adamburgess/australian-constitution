@@ -1,4 +1,5 @@
 ---
+name: The Constitution
 outcome: carried
 states: '6:0'
 percentage_for: 72.41 # 422788 yes, 583871 total

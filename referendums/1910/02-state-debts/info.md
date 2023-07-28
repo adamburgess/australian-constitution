@@ -1,4 +1,5 @@
 ---
+name: State Debts
 outcome: carried
 states: '5:1'
 percentage_for: 54.95
