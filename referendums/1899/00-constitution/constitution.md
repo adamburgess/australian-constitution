@@ -155,7 +155,7 @@
     * 128\. Mode of altering the Constitution.
 * SCHEDULE.
 
-### An Act to constitute the Commonwealth of Australia.
+## An Act to constitute the Commonwealth of Australia.
 
 WHEREAS the people of New South Wales, Victoria, South Australia,
 Queensland, and Tasmania, humbly relying on the blessing of Almighty
