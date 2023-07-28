@@ -155,7 +155,7 @@
     * 128\. Mode of altering the Constitution.
 * SCHEDULE.
 
-An Act to constitute the Commonwealth of Australia.
+### An Act to constitute the Commonwealth of Australia.
 
 WHEREAS the people of New South Wales, Victoria, South Australia,
 Queensland, and Tasmania, humbly relying on the blessing of Almighty
@@ -172,16 +172,16 @@ with the advice and consent of the Lords Spiritual and Temporal, and
 Commons, in this present Parliament assembled, and by the authority of
 the same, as follows:---
 
-1\. Short title.
+#### 1\. Short title.
 
 This Act may be cited as the Commonwealth of Australia Constitution Act.
 
-2\. Act to extend to the Queen's successors.
+#### 2\. Act to extend to the Queen's successors.
 
 The provisions of this Act referring to the Queen shall extend to Her
 Majesty's heirs and successors in the sovereignty of the United Kingdom.
 
-3\. Proclamation of Commonwealth.
+#### 3\. Proclamation of Commonwealth.
 
 It shall be lawful for the Queen, with the advice of the Privy Council,
 to declare by proclamation that, on and after a day therein appointed,
@@ -193,7 +193,7 @@ a Federal Commonwealth under the name of the Commonwealth of Australia.
 But the Queen may, at any time after the proclamation, appoint a
 Governor‑General for the Commonwealth.
 
-4\. Commencement of Act.
+#### 4\. Commencement of Act.
 
 The Commonwealth shall be established, and the Constitution of the
 Commonwealth shall take effect, on and after the day so appointed. But
@@ -202,7 +202,7 @@ passing of this Act make any such laws, to come into operation on the
 day so appointed, as they might have made if the Constitution had taken
 effect at the passing of this Act.
 
-5\. Operation of the Constitution and laws.
+#### 5\. Operation of the Constitution and laws.
 
 This Act, and all laws made by the Parliament of the Commonwealth under
 the Constitution, shall be binding on the courts, judges, and people of
@@ -212,7 +212,7 @@ shall be in force on all British ships, the Queen's ships of war
 excepted, whose first port of clearance and whose port of destination
 are in the Commonwealth.
 
-6\. Definitions.
+#### 6\. Definitions.
 
 ::: {.Definition}
 "The Commonwealth" shall mean the Commonwealth of Australia as
@@ -234,7 +234,7 @@ State."
 Commonwealth at its establishment.
 :::
 
-7\. Repeal of Federal Council Act.
+#### 7\. Repeal of Federal Council Act.
 
 The Federal Council of Australasia Act, 1885, is hereby repealed, but so
 as not to affect any laws passed by the Federal Council of Australasia
@@ -244,14 +244,14 @@ Any such law may be repealed as to any State by the Parliament of the
 Commonwealth, or as to any colony not being a State by the Parliament
 thereof.
 
-8\. Application of Colonial Boundaries Act.
+#### 8\. Application of Colonial Boundaries Act.
 
 After the passing of this Act the Colonial Boundaries Act, 1895, shall
 not apply to any colony which becomes a State of the Commonwealth; but
 the Commonwealth shall be taken to be a self‑governing colony for the
 purposes of that Act.
 
-9\. Constitution.
+#### 9\. Constitution.
 
 The Constitution of the Commonwealth shall be as follows:---
 
@@ -287,18 +287,18 @@ Chapter VIII. Alteration of the Constitution.
 
 The Schedule.
 
-Chapter I.---The Parliament.
+## Chapter I.---The Parliament.
 
-Part I.---General.
+### Part I.---General.
 
-1\. Legislative Power.
+#### 1\. Legislative Power.
 
 The legislative power of the Commonwealth shall be vested in a Federal
 Parliament, which shall consist of the Queen, a Senate, and a House of
 Representatives, and which is hereinafter called "The Parliament," or
 "The Parliament of the Commonwealth."
 
-2\. Governor-General.
+#### 2\. Governor-General.
 
 A Governor-General appointed by the Queen shall be Her Majesty's
 representative in the Commonwealth, and shall have and may exercise in
