@@ -541,23 +541,25 @@ that race resident in that State shall not be counted.
 Notwithstanding anything in section twenty-four, the number of members
 to be chosen in each State at the first election shall be as follows:
 
-  New South Wales\...\...\...\...\...\...\...\...\...                 twenty-three;
-  ------------------------------------------------------------------- ---------------
-  Victoria\...\...\...\...\...\...\...\...\...\...\...\...\...\....   twenty;
-  Queensland\...\...\...\...\...\...\...\...\...\...\...\....         eight;
-  South Australia\...\...\...\...\...\...\...\...\...\....            six;
-  Tasmania\...\...\...\...\...\...\...\...\...\...\...\...\.....      five;
+|                 |               |
+|-----------------|---------------|
+| New South Wales | twenty-three; |
+| Victoria        | twenty;       |
+| Queensland      | eight;        |
+| South Australia | six;          |
+| Tasmania        | five;         |
 
 Provided that if Western Australia is an Original State, the numbers
 shall be as follows:—
 
-  New South Wales\...\...\...\...\...\...\...\...\...                 twenty-six;
-  ------------------------------------------------------------------- ---------------
-  Victoria\...\...\...\...\...\...\...\...\...\...\...\...\...\....   twenty-three;
-  Queensland\...\...\...\...\...\...\...\...\...\...\...\....         nine;
-  South Australia\...\...\...\...\...\...\...\...\...\....            seven;
-  Western Australia\...\...\...\...\...\...\...\...\...               five;
-  Tasmania\...\...\...\...\...\...\...\...\...\...\...\...\.....      five.
+|                   |               |
+|-------------------|---------------|
+| New South Wales   | twenty-six;   |
+| Victoria          | twenty-three; |
+| Queensland        | nine;         |
+| South Australia   | seven;        |
+| Western Australia | five;         |
+| Tasmania          | five.         |
 
 27\. Alteration of number of members.
 
