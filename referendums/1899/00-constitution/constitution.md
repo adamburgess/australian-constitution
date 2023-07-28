@@ -287,7 +287,7 @@ the Commonwealth during the Queen's pleasure, but subject to this
 Constitution, such powers and functions of the Queen as her Majesty may
 be pleased to assign to him.
 
-3\. Salary of Governor-General.
+#### 3\. Salary of Governor-General.
 
 There shall be payable to the Queen out of the Consolidated Revenue fund
 of the Commonwealth, for the salary of the Governor-General, and annual
@@ -297,7 +297,7 @@ thousand pounds.
 The salary of a Governor-General shall not be altered during his
 continuance in office.
 
-4\. Provisions relating to Governor-General.
+#### 4\. Provisions relating to Governor-General.
 
 The provisions of this Constitution relating to the Governor‑General
 extend and apply to the Governor‑General for the time being, or such
@@ -306,7 +306,7 @@ Commonwealth; but no such person shall be entitled to receive any salary
 from the Commonwealth in respect of any other office during his
 administration of the Government of the Commonwealth.
 
-5\. Sessions of Parliament.
+#### 5\. Sessions of Parliament.
 
 Prorogation and Dissolution.
 
@@ -326,7 +326,7 @@ First session.
 The Parliament shall be summoned to meet not later than six months after
 the establishment of the Commonwealth.
 
-6\. Yearly session of Parliament.
+#### 6\. Yearly session of Parliament.
 
 There shall be a session of the Parliament once at least in every year,
 so that twelve months shall not intervene between the last sitting of
@@ -334,7 +334,7 @@ the Parliament in one session and its first sitting in the next session.
 
 Part II.—The Senate.
 
-7\. The Senate.
+#### 7\. The Senate.
 
 The Senate shall be composed of senators for each State, directly chosen
 by the people of the State, voting, until the Parliament otherwise
@@ -356,14 +356,14 @@ The senators shall be chosen for a term of six years, and the names of
 the senators chosen for each State shall be certified by the Governor to
 the Governor-General.
 
-8\. Qualification of electors.
+#### 8\. Qualification of electors.
 
 The qualification of electors of senators shall be in each State that
 which is prescribed by this Constitution, or by the Parliament, as the
 qualification for electors of members of the House of Representatives;
 but in the choosing of senators each elector shall vote only once.
 
-9\. Method of election of senators.
+#### 9\. Method of election of senators.
 
 The Parliament of the Commonwealth may make laws prescribing the method
 of choosing senators, but so that the method shall be uniform for all
@@ -376,7 +376,7 @@ Times and places.
 The Parliament of a State may make laws for determining the times and
 places of elections of senators for the State.
 
-10\. Application of State laws.
+#### 10\. Application of State laws.
 
 Until the Parliament otherwise provides, but subject to this
 Constitution, the laws in force in each State, for the time being,
@@ -384,19 +384,19 @@ relating to elections for the more numerous House of the Parliament of
 the State shall, as nearly as practicable, apply to elections of
 senators for the State.
 
-11\. Failure to choose senators.
+#### 11\. Failure to choose senators.
 
 The Senate may proceed to the despatch of business, notwithstanding the
 failure of any State to provide for its representation in the Senate.
 
-12\. Issue of writs.
+#### 12\. Issue of writs.
 
 The Governor of any State may cause writs to be issued for elections of
 senators for the State. In case of the dissolution of the Senate the
 writs shall be issued within ten days from the proclamation of such
 dissolution.
 
-13\. Rotation of senators.
+#### 13\. Rotation of senators.
 
 As soon as may be after the Senate first meets, and after each first
 meeting of the Senate following a dissolution thereof, the Senate shall
@@ -417,14 +417,14 @@ election, except in the cases of the first election and of the election
 next after any dissolution of the Senate, when it shall be taken to
 begin on the first day of July preceding the day of his election.
 
-14\. Further provision for rotation.
+#### 14\. Further provision for rotation.
 
 Whenever the number of senators for a State is increased or diminished,
 the Parliament of the Commonwealth may make such provision for the
 vacating of the places of senators for the State as it deems necessary
 to maintain regularity in the rotation.
 
-15\. Casual vacancies.
+#### 15\. Casual vacancies.
 
 If the place of a senator becomes vacant before the expiration of his
 term of service, the Houses of Parliament of the State for which he was
@@ -447,12 +447,12 @@ the term.
 The name of any senator so chosen or appointed shall be certified by the
 Governor of the State to the Governor-General.
 
-16\. Qualifications of senator.
+#### 16\. Qualifications of senator.
 
 The qualifications of a senator shall be the same as those of a member
 of the House of Representatives.
 
-17\. Election of President.
+#### 17\. Election of President.
 
 The Senate shall, before proceeding to the despatch of any other
 business, choose a senator to be the President of the Senate; and as
@@ -464,38 +464,38 @@ senator. He may be removed from office by a vote of the Senate, or he
 may resign his office or his seat by writing addressed to the
 Governor‑General.
 
-18\. Absence of President.
+#### 18\. Absence of President.
 
 Before or during any absence of the President, the Senate may choose a
 senator to perform his duties in his absence.
 
-19\. Resignation of senator.
+#### 19\. Resignation of senator.
 
 A senator may, by writing addressed to the President, or to the
 Governor-General if there is no President or if the President is absent
 from the Commonwealth, resign his place, which thereupon shall become
 vacant.
 
-20\. Vacancy by absence.
+#### 20\. Vacancy by absence.
 
 The place of a senator shall become vacant if for two consecutive months
 of any session of the Parliament he, without the permission of the
 Senate, fails to attend the Senate.
 
-21\. Vacancy to be notified.
+#### 21\. Vacancy to be notified.
 
 Whenever a vacancy happens in the Senate, the President, or if there is
 no President or if the President is absent from the Commonwealth the
 Governor-General, shall notify the same to the Governor of the State in
 the representation of which the vacancy has happened.
 
-22\. Quorum.
+#### 22\. Quorum.
 
 Until the Parliament otherwise provides, the presence of at least
 one-third of the whole number of the senators shall be necessary to
 constitute a meeting of the Senate for the exercise of its powers.
 
-23\. Voting in Senate.
+#### 23\. Voting in Senate.
 
 Questions arising in the Senate shall be determined by a majority of
 votes, and each senator shall have one vote. The President shall in all
@@ -504,7 +504,7 @@ shall pass in the negative.
 
 Part III.—The House of Representatives.
 
-24\. Constitution of House of Representatives.
+#### 24\. Constitution of House of Representatives.
 
 The House of Representatives shall be composed of members directly
 chosen by the people of the Commonwealth, and the number of such members
@@ -528,7 +528,7 @@ one more member shall be chosen in the State.
 But notwithstanding anything in this section, five members at least
 shall be chosen in each Original State.
 
-25\. Provision as to races disqualified from voting.
+#### 25\. Provision as to races disqualified from voting.
 
 For the purposes of the last section, if by the law of any State all
 persons of any race are disqualified from voting at elections for the
@@ -536,7 +536,7 @@ more numerous House of the Parliament of the State, then, in reckoning
 the number of the people of the State or of the Commonwealth, persons of
 that race resident in that State shall not be counted.
 
-26\. Representatives in first Parliament.
+#### 26\. Representatives in first Parliament.
 
 Notwithstanding anything in section twenty-four, the number of members
 to be chosen in each State at the first election shall be as follows:
@@ -561,19 +561,19 @@ shall be as follows:—
 | Western Australia | five;         |
 | Tasmania          | five.         |
 
-27\. Alteration of number of members.
+#### 27\. Alteration of number of members.
 
 Subject to this Constitution, the Parliament may make laws for
 increasing or diminishing the number of the members of the House of
 Representatives.
 
-28\. Duration of House of Representatives.
+#### 28\. Duration of House of Representatives.
 
 Every House of Representatives shall continue for three years from the
 first meeting of the House, and no longer, but may be sooner dissolved
 by the Governor-General.
 
-29\. Electoral divisions.
+#### 29\. Electoral divisions.
 
 Until the Parliament of the Commonwealth otherwise provides, the
 Parliament of any State may make laws for determining the divisions in
@@ -583,7 +583,7 @@ division shall not be formed out of parts of different States.
 
 In the absence of other provision, each State shall be one electorate.
 
-30\. Qualification of electors.
+#### 30\. Qualification of electors.
 
 Until the Parliament otherwise provides, the qualification of electors
 of members of the House of Representatives shall be in each State that
@@ -591,7 +591,7 @@ which is prescribed by the law of the State as the qualification of
 electors of the more numerous House of Parliament of the State; but in
 the choosing of members each elector shall vote only once.
 
-31\. Application of State laws.
+#### 31\. Application of State laws.
 
 Until the Parliament otherwise provides, but subject to this
 Constitution, the laws in force in each State for the time being
@@ -599,7 +599,7 @@ relating to elections for the more numerous House of the Parliament of
 the State shall, as nearly as practicable, apply to elections in the
 State of members of the House of Representatives.
 
-32\. Writs for general election.
+#### 32\. Writs for general election.
 
 The Governor-General in Council may cause writs to be issued for general
 elections of members of the House of Representatives.
@@ -608,14 +608,14 @@ After the first general election, the writs shall be issued within ten
 days from the expiry of a House of Representatives or from the
 proclamation of a dissolution thereof.
 
-33\. Writs for vacancies.
+#### 33\. Writs for vacancies.
 
 Whenever a vacancy happens in the House of Representatives, the Speaker
 shall issue his writ for the election of a new member, or if there is no
 Speaker or if he is absent from the Commonwealth the Governor-General in
 Council may issue the writ.
 
-34\. Qualifications of members.
+#### 34\. Qualifications of members.
 
 Until the Parliament otherwise provides, the qualifications of a member
 of the House of Representatives shall be as follows:—
@@ -631,7 +631,7 @@ least five years naturalized under a law of the United Kingdom, or of a
 Colony which has become or becomes a State, or of the Commonwealth, or
 of a State.
 
-35\. Election of Speaker.
+#### 35\. Election of Speaker.
 
 The House of Representatives shall, before proceeding to the despatch of
 any other business, choose a member to be the Speaker of the House, and
@@ -642,32 +642,32 @@ The Speaker shall cease to hold his office if he ceases to be a member.
 He may be removed from office by a vote of the House, or he may resign
 his office or his seat by writing addressed to the Governor-General.
 
-36\. Absence of Speaker.
+#### 36\. Absence of Speaker.
 
 Before or during any absence of the Speaker, the House of
 Representatives may choose a member to perform his duties in his
 absence.
 
-37\. Resignation of member.
+#### 37\. Resignation of member.
 
 A member may by writing addressed to the Speaker, or to the
 Governor-General if there is no Speaker or if the Speaker is absent from
 the Commonwealth, resign his place, which thereupon shall become vacant.
 
-38\. Vacancy by absence.
+#### 38\. Vacancy by absence.
 
 The place of a member shall become vacant if for two consecutive months
 of any session of the Parliament he, without the permission of the
 House, fails to attend the House.
 
-39\. Quorum.
+#### 39\. Quorum.
 
 Until the Parliament otherwise provides, the presence of at least
 one-third of the whole number of the members of the House of
 Representatives shall be necessary to constitute a meeting of the House
 for the exercise of its powers.
 
-40\. Voting in House of Representatives.
+#### 40\. Voting in House of Representatives.
 
 Questions arising in the House of Representatives shall be determined by
 a majority of votes other than that of the Speaker. The Speaker shall
@@ -676,26 +676,26 @@ vote.
 
 Part IV.—Both Houses of the Parliament.
 
-41\. Right of electors of States.
+#### 41\. Right of electors of States.
 
 No adult person who has or acquires a right to vote at elections for the
 more numerous House of the Parliament of a State shall, while the right
 continues, be prevented by any law of the Commonwealth from voting at
 elections for either House of the Parliament of the Commonwealth.
 
-42\. Oath or affirmation of allegiance.
+#### 42\. Oath or affirmation of allegiance.
 
 Every senator and every member of the House of Representatives shall
 before taking his seat make and subscribe before the Governor-General,
 or some person authorized by him, an oath or affirmation of allegiance
 in the form set forth in the schedule to this Constitution.
 
-43\. Member of one House ineligible for other.
+#### 43\. Member of one House ineligible for other.
 
 A member of either House of the Parliament shall be incapable of being
 chosen or of sitting as a member of the other House.
 
-44\. Disqualification.
+#### 44\. Disqualification.
 
 Any person who—
 
@@ -730,7 +730,7 @@ the receipt of pay as an officer or member of the naval or military
 forces of the Commonwealth by any person whose services are not wholly
 employed by the Commonwealth.
 
-45\. Vacancy on happening of disqualification.
+#### 45\. Vacancy on happening of disqualification.
 
 If a senator or member of the House of Representatives—
 
@@ -746,7 +746,7 @@ rendered in the Parliament to any person or State:
 
 his place shall thereupon become vacant.
 
-46\. Penalty for sitting when disqualified.
+#### 46\. Penalty for sitting when disqualified.
 
 Until the Parliament otherwise provides, any person declared by this
 constitution to be incapable of sitting as a senator or as a member of
@@ -754,7 +754,7 @@ the House of Representatives shall, for every day on which he so sits,
 be liable to pay the sum of one hundred pounds to any person who sues
 for it in any court of competent jurisdiction.
 
-47\. Disputed elections.
+#### 47\. Disputed elections.
 
 Until the Parliament otherwise provides, any question respecting the
 qualification of a senator or of a member of the House of
@@ -762,13 +762,13 @@ Representatives, or respecting a vacancy in either House of the
 Parliament, and any question of a disputed election to either House,
 shall be determined by the House in which the question arises.
 
-48\. Allowance to members.
+#### 48\. Allowance to members.
 
 Until the Parliament otherwise provides, each senator and each member of
 the House of Representatives shall receive an allowance of four hundred
 pounds a year, to be reckoned from the day on which he takes his seat.
 
-49\. Privileges, &c. of Houses.
+#### 49\. Privileges, &c. of Houses.
 
 The powers, privileges, and immunities of the Senate and of the House of
 Representatives, and of the members and the committees of each House,
@@ -777,7 +777,7 @@ shall be those of the Commons House of Parliament of the United Kingdom,
 and of its members and committees, at the establishment of the
 Commonwealth.
 
-50\. Rules and orders.
+#### 50\. Rules and orders.
 
 Each House of the Parliament may make rules and orders with respect
 to—
@@ -790,7 +790,7 @@ separately or jointly with the other House.
 
 Part V.—Powers of the Parliament.
 
-51\. Legislative powers of the Parliament.
+#### 51\. Legislative powers of the Parliament.
 
 The Parliament shall, subject to this Constitution, have power to make
 laws for the peace, order, and good government of the Commonwealth with
@@ -905,7 +905,7 @@ Constitution in the Parliament or in either House thereof, or in the
 Government of the Commonwealth, or in the Federal Judicature, or in any
 department or officer of the Commonwealth.
 
-52\. Exclusive powers of the Parliament.
+#### 52\. Exclusive powers of the Parliament.
 
 The Parliament shall, subject to this Constitution, have exclusive power
 to make laws for the peace, order, and good government of the
@@ -921,7 +921,7 @@ Government of the Commonwealth:
 (iii.) Other matters declared by this Constitution to be within the
 exclusive power of the Parliament.
 
-53\. Powers of the Houses in respect of legislation.
+#### 53\. Powers of the Houses in respect of legislation.
 
 Proposed laws appropriating revenue or moneys, or imposing taxation,
 shall not originate in the Senate. But a proposed law shall not be taken
@@ -947,13 +947,13 @@ amendments, with or without modifications.
 Except as provided in this section, the Senate shall have equal power
 with the House of Representatives in respect of all proposed laws.
 
-54\. Appropriation Bills.
+#### 54\. Appropriation Bills.
 
 The proposed law which appropriates revenue or moneys for the ordinary
 annual services of the Government shall deal only with such
 appropriation.
 
-55\. Tax Bill.
+#### 55\. Tax Bill.
 
 Laws imposing taxation shall deal only with the imposition of taxation,
 and any provision therein dealing with any other matter shall be of no
@@ -964,14 +964,14 @@ excise, shall deal with one subject of taxation only; but laws imposing
 duties of customs shall deal with duties of customs only, and laws
 imposing duties of excise shall deal with duties of excise only.
 
-56\. Recommendation of money votes.
+#### 56\. Recommendation of money votes.
 
 A vote, resolution, or proposed law for the appropriation of revenue or
 moneys shall not be passed unless the purpose of the appropriation has
 in the same session been recommended by message of the Governor-General
 to the House in which the proposal originated.
 
-57\. Disagreement between the Houses.
+#### 57\. Disagreement between the Houses.
 
 If the House of Representatives passes any proposed law, and the Senate
 rejects or fails to pass it, or passes it with amendments to which the
@@ -1006,7 +1006,7 @@ Representatives, it shall be taken to have been duly passed by both
 Houses of the Parliament, and shall be presented to the Governor-General
 for the Queen's assent.
 
-58\. Royal assent to Bills.
+#### 58\. Royal assent to Bills.
 
 When a proposed law passed by both Houses of the Parliament is presented
 to the Governor-General for the Queen's assent, he shall declare,
@@ -1021,7 +1021,7 @@ proposed law so presented to him, and may transmit therewith any
 amendments which he may recommend, and the Houses may deal with the
 recommendation.
 
-59\. Disallowance by the Queen.
+#### 59\. Disallowance by the Queen.
 
 The Queen may disallow any law within one year from the
 Governor-General's assent, and such disallowance on being made known by
@@ -1029,7 +1029,7 @@ the Governor-General by speech or message to each of the Houses of the
 Parliament, or by Proclamation, shall annul the law from the day when
 the disallowance is so made known.
 
-60\. Signification of Queen's pleasure on Bills reserved.
+#### 60\. Signification of Queen's pleasure on Bills reserved.
 
 A proposed law reserved for the Queen's pleasure shall not have any
 force unless and until within two years from the day on which it was
@@ -1038,16 +1038,16 @@ Governor-General makes known, by speech or message to each of the Houses
 of the Parliament, or by Proclamation, that it has received the Queen's
 assent.
 
-Chapter II.—The Executive Government.
+## Chapter II.—The Executive Government.
 
-61\. Executive power.
+#### 61\. Executive power.
 
 The executive power of the Commonwealth is vested in the Queen and is
 exerciseable by the Governor-General as the Queen's representative, and
 extends to the execution and maintenance of this Constitution, and of
 the laws of the Commonwealth.
 
-62\. Federal Executive Council.
+#### 62\. Federal Executive Council.
 
 There shall be a Federal Executive Council to advise the
 Governor-General in the government of the Commonwealth, and the members
@@ -1055,13 +1055,13 @@ of the Council shall be chosen and summoned by the Governor-General and
 sworn as Executive Councillors, and shall hold office during his
 pleasure.
 
-63\. Provisions referring to Governor-General.
+#### 63\. Provisions referring to Governor-General.
 
 The provisions of this Constitution referring to the Governor‑General in
 Council shall be construed as referring to the Governor‑General acting
 with the advice of the Federal Executive Council.
 
-64\. Ministers of State.
+#### 64\. Ministers of State.
 
 The Governor-General may appoint officers to administer such departments
 of State of the Commonwealth as the Governor-General in Council may
@@ -1078,21 +1078,21 @@ After the first general election no Minister of State shall hold office
 for a longer period than three months unless he is or becomes a senator
 or a member of the House of Representatives.
 
-65\. Number of Ministers.
+#### 65\. Number of Ministers.
 
 Until the Parliament otherwise provides, the Ministers of State shall
 not exceed seven in number, and shall hold such offices as the
 Parliament prescribes, or, in the absence of provision, as the
 Governor‑General directs.
 
-66\. Salaries of Ministers.
+#### 66\. Salaries of Ministers.
 
 There shall be payable to the Queen, out of the Consolidated Revenue
 Fund of the Commonwealth, for the salaries of the Ministers of State, an
 annual sum which, until the Parliament otherwise provides, shall not
 exceed twelve thousand pounds a year.
 
-67\. Appointment of civil servants.
+#### 67\. Appointment of civil servants.
 
 Until the Parliament otherwise provides, the appointment and removal of
 all other officers of the Executive Government of the Commonwealth shall
@@ -1100,13 +1100,13 @@ be vested in the Governor-General in Council, unless the appointment is
 delegated by the Governor-General in Council or by a law of the
 Commonwealth to some other authority.
 
-68\. Command of naval and military forces.
+#### 68\. Command of naval and military forces.
 
 The command in chief of the naval and military forces of the
 Commonwealth is vested in the Governor-General as the Queen's
 representative.
 
-69\. Transfer of certain departments.
+#### 69\. Transfer of certain departments.
 
 On a date or dates to be proclaimed by the Governor‑General after the
 establishment of the Commonwealth the following departments of the
@@ -1124,7 +1124,7 @@ Quarantine.
 But the departments of customs and of excise in each State shall become
 transferred to the Commonwealth on its establishment.
 
-70\. Certain powers of Governors to vest in Governor-General.
+#### 70\. Certain powers of Governors to vest in Governor-General.
 
 In respect of matters which, under this Constitution, pass to the
 Executive Government of the Commonwealth, all powers and functions which
@@ -1135,9 +1135,9 @@ Governor-General, or in the Governor‑General in Council, or in the
 authority exercising similar powers under the Commonwealth, as the case
 requires.
 
-Chapter III.—The Judicature.
+## Chapter III.—The Judicature.
 
-71\. Judicial power and Courts.
+#### 71\. Judicial power and Courts.
 
 The judicial power of the Commonwealth shall be vested in a Federal
 Supreme Court, to be called the High Court of Australia, and in such
@@ -1146,7 +1146,7 @@ as it invests with federal jurisdiction. The High Court shall consist of
 a Chief Justice, and so many other Justices, not less than two, as the
 Parliament prescribes.
 
-72\. Judges' appointment, tenure, and remuneration.
+#### 72\. Judges' appointment, tenure, and remuneration.
 
 The Justices of the High Court and of the other courts created by the
 Parliament—
@@ -1162,7 +1162,7 @@ incapacity:
 the remuneration shall not be diminished during their continuance in
 office.
 
-73\. Appellate jurisdiction of High Court.
+#### 73\. Appellate jurisdiction of High Court.
 
 The High Court shall have jurisdiction, with such exceptions and subject
 to such regulations as the Parliament prescribes, to hear and determine
@@ -1192,7 +1192,7 @@ restrictions on appeals to the Queen in Council from the Supreme Courts
 of the several States shall be applicable to appeals from them to the
 High Court.
 
-74\. Appeal to Queen in Council.
+#### 74\. Appeal to Queen in Council.
 
 No appeal shall be permitted to the Queen in Council from a decision of
 the High Court upon any question, howsoever arising, as to the limits
@@ -1214,7 +1214,7 @@ matters in which such leave may be asked, but proposed laws containing
 any such limitation shall be reserved by the Governor-General for Her
 Majesty's pleasure.
 
-75\. Original jurisdiction of High Court.
+#### 75\. Original jurisdiction of High Court.
 
 In all matters—
 
@@ -1233,7 +1233,7 @@ sought against an officer of the Commonwealth:
 
 the High Court shall have original jurisdiction.
 
-76\. Additional original jurisdiction.
+#### 76\. Additional original jurisdiction.
 
 The Parliament may make laws conferring original jurisdiction on the
 High court in any matter—
@@ -1247,7 +1247,7 @@ High court in any matter—
 (iv.) Relating to the same subject-matter claimed under the laws of
 different States.
 
-77\. Power to define jurisdiction.
+#### 77\. Power to define jurisdiction.
 
 With respect to any of the matters mentioned in the last two sections
 the Parliament may make laws—
@@ -1261,18 +1261,18 @@ of the States:
 
 (iii.) Investing any court of a State with federal jurisdiction.
 
-78\. Proceedings against Commonwealth or State.
+#### 78\. Proceedings against Commonwealth or State.
 
 The Parliament may make laws conferring rights to proceed against the
 Commonwealth or a State in respect of matters within the limits of the
 judicial power.
 
-79\. Number of judges.
+#### 79\. Number of judges.
 
 The federal jurisdiction of any court may be exercised by such number of
 judges as the Parliament prescribes.
 
-80\. Trial by jury.
+#### 80\. Trial by jury.
 
 The trial on indictment of any offence against any law of the
 Commonwealth shall be by jury, and every such trial shall be held in the
@@ -1280,23 +1280,23 @@ State where the offence was committed, and if the offence was not
 committed within any State the trial shall be held at such place or
 places as the Parliament prescribes.
 
-Chapter IV.—Finance and Trade.
+## Chapter IV.—Finance and Trade.
 
-81\. Consolidated Revenue Fund.
+#### 81\. Consolidated Revenue Fund.
 
 All revenues or moneys raised or received by the Executive Government of
 the Commonwealth shall form one Consolidated Revenue Fund, to be
 appropriated for the purposes of the Commonwealth in the manner and
 subject to the charges and liabilities imposed by this Constitution.
 
-82\. Expenditure charged thereon.
+#### 82\. Expenditure charged thereon.
 
 The costs, charges, and expenses incident to the collection, management,
 and receipt of the Consolidated Revenue Fund shall form the first charge
 thereon; and the revenue of the Commonwealth shall in the first instance
 be applied to the payment of the expenditure of the Commonwealth.
 
-83\. Money to be appropriated by law.
+#### 83\. Money to be appropriated by law.
 
 No money shall be drawn from the Treasury of the Commonwealth except
 under appropriation made by law.
@@ -1307,7 +1307,7 @@ and expend such moneys as may be necessary for the maintenance of any
 department transferred to the Commonwealth and for the holding of the
 first elections for the Parliament.
 
-84\. Transfer of officers.
+#### 84\. Transfer of officers.
 
 When any department of the public service of a State becomes transferred
 to the Commonwealth, all officers of the department shall become subject
@@ -1338,7 +1338,7 @@ to the public service of the Commonwealth, shall have the same rights as
 if he had been an officer of a department transferred to the
 Commonwealth and were retained in the service of the Commonwealth.
 
-85\. Transfer of property of State.
+#### 85\. Transfer of property of State.
 
 When any department of the public service of a State is transferred to
 the Commonwealth—
@@ -1366,13 +1366,13 @@ laws to be made by the Parliament:
 current obligations of the State in respect of the department
 transferred.
 
-86\.
+#### 86\.
 
 On the establishment of the Commonwealth, the collection and control of
 duties of customs and of excise, and the control of the payment of
 bounties, shall pass to the Executive Government of the Commonwealth.
 
-87\.
+#### 87\.
 
 During a period of ten years after the establishment of the Commonwealth
 and thereafter until the Parliament otherwise provides, of the net
@@ -1384,12 +1384,12 @@ The balance shall, in accordance with this Constitution, be paid to the
 several States, or applied towards the payment of interest on debts of
 the several States taken over by the Commonwealth.
 
-88\. Uniform duties of customs.
+#### 88\. Uniform duties of customs.
 
 Uniform duties of customs shall be imposed within two years after the
 establishment of the Commonwealth.
 
-89\. Payment to States before uniform duties.
+#### 89\. Payment to States before uniform duties.
 
 Until the imposition of uniform duties of customs—
 
@@ -1408,7 +1408,7 @@ people, in the other expenditure of the Commonwealth.
 (iii.) The Commonwealth shall pay to each State month by month the
 balance (if any) in favour of the State.
 
-90\. Exclusive power over customs, excise, and bounties.
+#### 90\. Exclusive power over customs, excise, and bounties.
 
 On the imposition of uniform duties of customs the power of the
 Parliament to impose duties of customs and of excise, and to grant
@@ -1422,7 +1422,7 @@ authority of the Government of any State shall be taken to be good if
 made before the thirtieth day of June, one thousand eight hundred and
 ninety-eight, and not otherwise.
 
-91\. Exceptions as to bounties.
+#### 91\. Exceptions as to bounties.
 
 Nothing in this Constitution prohibits a State from granting any aid to
 or bounty on mining for gold, silver, or other metals, nor from
@@ -1430,7 +1430,7 @@ granting, with the consent of both Houses of the Parliament of the
 Commonwealth expressed by resolution, any aid to or bounty on the
 production or export of goods.
 
-92\. Trade within the Commonwealth to be free.
+#### 92\. Trade within the Commonwealth to be free.
 
 On the imposition of uniform duties of customs, trade, commerce, and
 intercourse among the States, whether by means of internal carriage or
@@ -1444,7 +1444,7 @@ imposition of such duties, be liable to any duty chargeable on the
 importation of such goods into the Commonwealth, less any duty paid in
 respect of the goods on their importation.
 
-93\. Payment to States for five years after uniform Tariffs.
+#### 93\. Payment to States for five years after uniform Tariffs.
 
 During the first five years after the imposition of uniform duties of
 customs, and thereafter until the Parliament otherwise provides—
@@ -1460,13 +1460,13 @@ revenue, debit expenditure, and pay balances to the several States as
 prescribed for the period preceding the imposition of uniform duties of
 customs.
 
-94\. Distribution of surplus.
+#### 94\. Distribution of surplus.
 
 After five years from the imposition of uniform duties of customs, the
 Parliament may provide, on such basis as it deems fair, for the monthly
 payment to the several State of all surplus revenue of the Commonwealth.
 
-95\. Customs duties of Western Australia.
+#### 95\. Customs duties of Western Australia.
 
 Notwithstanding anything in this Constitution, the Parliament of the
 State of Western Australia, if that State be an Original State, may,
@@ -1490,14 +1490,14 @@ importation of the like goods, then such higher duty shall be collected
 on the goods when imported into Western Australia from beyond the limits
 of the Commonwealth.
 
-96\. Financial assistance to States.
+#### 96\. Financial assistance to States.
 
 During a period of ten years after the establishment of the Commonwealth
 and thereafter until the Parliament otherwise provides, the Parliament
 may grant financial assistance to any State on such terms and conditions
 as the Parliament thinks fit.
 
-97\. Audit.
+#### 97\. Audit.
 
 Until the Parliament otherwise provides, the laws in force in any Colony
 which has become or becomes a State with respect to the receipt of
@@ -1509,26 +1509,26 @@ Commonwealth, or the Government or an officer of the Commonwealth, were
 mentioned whenever the Colony, or the Government or an officer of the
 Colony, is mentioned.
 
-98\. Trade and commerce includes navigation and State railways.
+#### 98\. Trade and commerce includes navigation and State railways.
 
 The power of the Parliament to make laws with respect to trade and
 commerce extends to navigation and shipping, and to railways the
 property of any State.
 
-99\. Commonwealth not to give preference.
+#### 99\. Commonwealth not to give preference.
 
 The Commonwealth shall not, by any law or regulation of trade, commerce,
 or revenue, give preference to one State or any part thereof over
 another State or any part thereof.
 
-100\. Nor abridge right to use water.
+#### 100\. Nor abridge right to use water.
 
 The Commonwealth shall not, by any law or regulation of trade or
 commerce, abridge the right of a State or of the residents therein to
 the reasonable use of the waters of rivers for conservation or
 irrigation.
 
-101\. Inter-State Commission.
+#### 101\. Inter-State Commission.
 
 There shall be an Inter-State Commission, with such powers of
 adjudication and administration as the Parliament deems necessary for
@@ -1536,7 +1536,7 @@ the execution and maintenance, within the Commonwealth, of the
 provisions of this Constitution relating to trade and commerce, and of
 all laws made thereunder.
 
-102\. Parliament may forbid preferences by State.
+#### 102\. Parliament may forbid preferences by State.
 
 The Parliament may by any law with respect to trade or commerce forbid,
 as to railways, any preference or discrimination by any State, or by any
@@ -1548,7 +1548,7 @@ no preference or discrimination shall, within the meaning of this
 section, be taken to be undue and unreasonable, or unjust to any State,
 unless so adjudged by the Inter-State Commission.
 
-103\. Commissioners' appointment, tenure, and remuneration.
+#### 103\. Commissioners' appointment, tenure, and remuneration.
 
 The members of the Inter-State Commission—
 
@@ -1563,7 +1563,7 @@ ground of proved misbehaviour or incapacity:
 such remuneration shall not be diminished during their continuance in
 office.
 
-104\. Saving of certain rates.
+#### 104\. Saving of certain rates.
 
 Nothing in this Constitution shall render unlawful any rate for the
 carriage of goods upon a railway, the property of a State, if the rate
@@ -1572,7 +1572,7 @@ development of the territory of the State, and if the rate applies
 equally to goods within the State and to goods passing into the State
 from other States.
 
-105\. Taking over public debts of States.
+#### 105\. Taking over public debts of States.
 
 The Parliament may take over from the States their public debts as
 existing at the establishment of the Commonwealth, or a proportion
@@ -1586,16 +1586,16 @@ Commonwealth payable to the several States, or if such surplus is
 insufficient, or if there is no surplus, then the deficiency or the
 whole amount shall be paid by the several States.
 
-Chapter V.—The States.
+## Chapter V.—The States.
 
-106\. Saving of Constitutions.
+#### 106\. Saving of Constitutions.
 
 The Constitution of each State of the Commonwealth shall, subject to
 this Constitution, continue as at the establishment of the Commonwealth,
 or as at the admission or establishment of the State, as the case may
 be, until altered in accordance with the Constitution of the State.
 
-107\. Saving of Power of State Parliaments.
+#### 107\. Saving of Power of State Parliaments.
 
 Every power of the Parliament of a Colony which has become or becomes a
 State, shall, unless it is by this Constitution exclusively vested in
@@ -1603,7 +1603,7 @@ the Parliament of the Commonwealth or withdrawn from the Parliament of
 the State, continue as at the establishment of the Commonwealth, or as
 at the admission or establishment of the State, as the case may be.
 
-108\. Saving of State laws.
+#### 108\. Saving of State laws.
 
 Every law in force in a Colony which has become or becomes a State, and
 relating to any matter within the powers of the Parliament of the
@@ -1613,27 +1613,27 @@ of the Commonwealth, the Parliament of the State shall have such powers
 of alteration and of repeal in respect of any such law as the Parliament
 of the Colony had until the Colony became a State.
 
-109\. Inconsistency of laws.
+#### 109\. Inconsistency of laws.
 
 When a law of a State is inconsistent with a law of the Commonwealth,
 the latter shall prevail, and the former shall, to the extent of the
 inconsistency, be invalid.
 
-110\. Provisions referring to Governor.
+#### 110\. Provisions referring to Governor.
 
 The provisions of this Constitution relating to the Governor of a State
 extend and apply to the Governor for the time being of the State, or
 other chief executive officer or administrator of the government of the
 State.
 
-111\. States may surrender territory.
+#### 111\. States may surrender territory.
 
 The Parliament of a State may surrender any part of the State to the
 Commonwealth; and upon such surrender, and the acceptance thereof by the
 Commonwealth, such part of the State shall become subject to the
 exclusive jurisdiction of the Commonwealth.
 
-112\. States may levy charges for inspection laws.
+#### 112\. States may levy charges for inspection laws.
 
 After uniform duties of customs have been imposed, a State may levy on
 imports or exports, or on goods passing into or out of the State, such
@@ -1642,14 +1642,14 @@ State; but the net produce of all charges so levied shall be for the use
 of the Commonwealth; and any such inspection laws may be annulled by the
 Parliament of the Commonwealth.
 
-113\. Intoxicating liquids.
+#### 113\. Intoxicating liquids.
 
 All fermented, distilled, or other intoxicating liquids passing into any
 State or remaining therein for use, consumption, sale, or storage, shall
 be subject to the laws of the State as if such liquids had been produced
 in the State.
 
-114\. States may not raise forces. Taxation of property of Commonwealth
+#### 114\. States may not raise forces. Taxation of property of Commonwealth
 or State.
 
 A State shall not, without the consent of the Parliament of the
@@ -1658,38 +1658,38 @@ any tax on property of any kind belonging to the Commonwealth, nor shall
 the Commonwealth impose any tax on property of any kind belonging to a
 State.
 
-115\. States not to coin money.
+#### 115\. States not to coin money.
 
 A State shall not coin money, nor make anything but gold and silver coin
 a legal tender in payment of debts.
 
-116\. Commonwealth not to legislate in respect of religion.
+#### 116\. Commonwealth not to legislate in respect of religion.
 
 The Commonwealth shall not make any law for establishing any religion,
 or for imposing any religious observance, or for prohibiting the free
 exercise of any religion, and no religious test shall be required as a
 qualification for any office or public trust under the Commonwealth.
 
-117\. Rights of residents in States.
+#### 117\. Rights of residents in States.
 
 A subject of the Queen, resident in any State, shall not be subject in
 any other State to any disability or discrimination which would not be
 equally applicable to him if he were a subject of the Queen resident in
 such other State.
 
-118\. Recognition of laws & c. of States.
+#### 118\. Recognition of laws & c. of States.
 
 Full faith and credit shall be given, throughout the Commonwealth, to
 the laws, the public Acts and records, and the judicial proceedings of
 every State.
 
-119\. Protection of States from invasion and violence.
+#### 119\. Protection of States from invasion and violence.
 
 The Commonwealth shall protect every State against invasion and, on the
 application of the Executive Government of the State, against domestic
 violence.
 
-120\. Custody of offenders against laws of the Commonwealth.
+#### 120\. Custody of offenders against laws of the Commonwealth.
 
 Every State shall make provision for the detention in its prisons of
 persons accused or convicted of offences against the laws of the
@@ -1697,16 +1697,16 @@ Commonwealth, and for the punishment of persons convicted of such
 offences, and the Parliament of the Commonwealth may make laws to give
 effect to this provision.
 
-Chapter VI.—New States.
+## Chapter VI.—New States.
 
-121\. New States may be admitted or established.
+#### 121\. New States may be admitted or established.
 
 The Parliament may admit to the Commonwealth or establish new States,
 and may upon such admission or establishment make or impose such terms
 and conditions, including the extent of representation in either House
 of the Parliament, as it thinks fit.
 
-122\. Government of territories.
+#### 122\. Government of territories.
 
 The Parliament may make laws for the government of any territory
 surrendered by any State to and accepted by the Commonwealth, or of any
@@ -1715,7 +1715,7 @@ Commonwealth, or otherwise acquired by the Commonwealth, and may allow
 the representation of such territory in either House of the Parliament
 to the extent and on the terms which it thinks fit.
 
-123\. Alteration of limits of States.
+#### 123\. Alteration of limits of States.
 
 The Parliament of the Commonwealth may, with the consent of the
 Parliament of a State, and the approval of the majority of the electors
@@ -1725,16 +1725,16 @@ agreed on, and may, with the like consent, make provision respecting the
 effect and operation of any increase or diminution or alteration of
 territory in relation to any State affected.
 
-124\. Formation of new States.
+#### 124\. Formation of new States.
 
 A new State may be formed by separation of territory from a State, but
 only with the consent of the Parliament thereof, and a new State may be
 formed by the union of two or more States or parts of States, but only
 with the consent of the Parliaments of the States affected.
 
-Chapter VII.—Miscellaneous.
+## Chapter VII.—Miscellaneous.
 
-125\. Seat of Government.
+#### 125\. Seat of Government.
 
 The seat of Government of the Commonwealth shall be determined by the
 Parliament, and shall be within territory which shall have been granted
@@ -1749,7 +1749,7 @@ granted to the Commonwealth without any payment therefor.
 The Parliament shall sit at Melbourne until it meet at the seat of
 Government.
 
-126\. Power to Her Majesty to authorise Governor-General to appoint
+#### 126\. Power to Her Majesty to authorise Governor-General to appoint
 deputies.
 
 The Queen may authorize the Governor-General to appoint any person, or
@@ -1761,15 +1761,15 @@ subject to any limitations expressed or directions given by the Queen;
 but the appointment of such deputy or deputies shall not affect the
 exercise by the Governor-General himself of any power or function.
 
-127\. Aborigines not to be counted in reckoning population.
+#### 127\. Aborigines not to be counted in reckoning population.
 
 In reckoning the numbers of the people of the Commonwealth, or of a
 State or other part of the Commonwealth, aboriginal natives shall not be
 counted.
 
-Chapter VIII.—Alteration of the Constitution.
+## Chapter VIII.—Alteration of the Constitution.
 
-128\. Mode of altering the Constitution.
+#### 128\. Mode of altering the Constitution.
 
 This Constitution shall not be altered except in the following
 manner:—
@@ -1814,15 +1814,15 @@ or in any manner affecting the provisions of the Constitution in
 relation thereto, shall become law unless the majority of the electors
 voting in that State approve the proposed law.
 
-SCHEDULE.
+## SCHEDULE.
 
-OATH.
+#### OATH.
 
 I, *A.B.,* do swear that I will be faithful and bear true allegiance to
 Her Majesty Queen Victoria, Her heirs and successors according to law.
 SO HELP ME GOD !
 
-AFFIRMATION.
+#### AFFIRMATION.
 
 I, *A.B.,* do solemnly and sincerely affirm and declare that I will be
 faithful and bear true allegiance to Her Majesty Queen Victoria, Her
