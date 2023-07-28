@@ -2,311 +2,310 @@
 
 ## Contents
 
-### Covering clauses
+* Covering clauses
 
-1\. Short title.
+    * 1\. Short title.
 
-2\. Act to extend to the Queen's successors.
+    * 2\. Act to extend to the Queen's successors.
 
-3\. Proclamation of Commonwealth.
+    * 3\. Proclamation of Commonwealth.
 
-4\. Commencement of Act.
+    * 4\. Commencement of Act.
 
-5\. Operation of the Constitution and laws.
+    * 5\. Operation of the Constitution and laws.
 
-6\. Definitions.
+    * 6\. Definitions.
 
-7\. Repeal of Federal Council Act.
+    * 7\. Repeal of Federal Council Act.
 
-8\. Application of Colonial Boundaries Act.
+    * 8\. Application of Colonial Boundaries Act.
 
-9\. Constitution.
+    * 9\. Constitution.
 
-### Chapter I.—The Parliament.
+* Chapter I.—The Parliament.
 
-#### Part I.—General.
+    * Part I.—General.
 
-1\. Legislative Power.
+        * 1\. Legislative Power.
 
-2\. Governor-General.
+        * 2\. Governor-General.
 
-3\. Salary of Governor-General.
+        * 3\. Salary of Governor-General.
 
-4\. Provisions relating to Governor-General.
+        * 4\. Provisions relating to Governor-General.
 
-5\. Sessions of Parliament.
+        * 5\. Sessions of Parliament.
 
-6\. Yearly session of Parliament.
+        * 6\. Yearly session of Parliament.
 
-#### Part II.—The Senate.
+    * Part II.—The Senate.
 
-7\. The Senate.
+        * 7\. The Senate.
 
-8\. Qualification of electors.
+        * 8\. Qualification of electors.
 
-9\. Method of election of senators.
+        * 9\. Method of election of senators.
 
-10\. Application of State laws.
+        * 10\. Application of State laws.
 
-11\. Failure to choose senators.
+        * 11\. Failure to choose senators.
 
-12\. Issue of writs.
+        * 12\. Issue of writs.
 
-13\. Rotation of senators.
+        * 13\. Rotation of senators.
 
-14\. Further provision for rotation.
+        * 14\. Further provision for rotation.
 
-15\. Casual vacancies.
+        * 15\. Casual vacancies.
 
-16\. Qualifications of senator.
+        * 16\. Qualifications of senator.
 
-17\. Election of President.
+        * 17\. Election of President.
 
-18\. Absence of President.
+        * 18\. Absence of President.
 
-19\. Resignation of senator.
+        * 19\. Resignation of senator.
 
-20\. Vacancy by absence.
+        * 20\. Vacancy by absence.
 
-21\. Vacancy to be notified.
+        * 21\. Vacancy to be notified.
 
-22\. Quorum.
+        * 22\. Quorum.
 
-23\. Voting in Senate.
+        * 23\. Voting in Senate.
 
-#### Part III.—The House of Representatives.
+    * Part III.—The House of Representatives.
 
-24\. Constitution of House of Representatives. 11
+        * 24\. Constitution of House of Representatives. 11
 
-25\. Provision as to races disqualified from voting. 11
+        * 25\. Provision as to races disqualified from voting. 11
 
-26\. Representatives in first Parliament. 12
+        * 26\. Representatives in first Parliament. 12
 
-27\. Alteration of number of members. 12
+        * 27\. Alteration of number of members. 12
 
-28\. Duration of House of Representatives. 12
+        * 28\. Duration of House of Representatives. 12
 
-29\. Electoral divisions. 13
+        * 29\. Electoral divisions. 13
 
-30\. Qualification of electors. 13
+        * 30\. Qualification of electors. 13
 
-31\. Application of State laws. 13
+        * 31\. Application of State laws. 13
 
-32\. Writs for general election. 13
+        * 32\. Writs for general election. 13
 
-33\. Writs for vacancies. 14
+        * 33\. Writs for vacancies. 14
 
-34\. Qualifications of members. 14
+        * 34\. Qualifications of members. 14
 
-35\. Election of Speaker. 14
+        * 35\. Election of Speaker. 14
 
-36\. Absence of Speaker. 15
+        * 36\. Absence of Speaker. 15
 
-37\. Resignation of member. 15
+        * 37\. Resignation of member. 15
 
-38\. Vacancy by absence. 15
+        * 38\. Vacancy by absence. 15
 
-39\. Quorum. 15
+        * 39\-. Quorum. 15
 
-40\. Voting in House of Representatives. 15
+        * 40\. Voting in House of Representatives. 15
 
-#### Part IV.—Both Houses of the Parliament. 16
+    * Part IV.—Both Houses of the Parliament. 16
 
-41\. Right of electors of States. 16
+        * 41\. Right of electors of States. 16
 
-42\. Oath or affirmation of allegiance. 16
+        * 42\. Oath or affirmation of allegiance. 16
 
-43\. Member of one House ineligible for other. 16
+        * 43\. Member of one House ineligible for other. 16
 
-44\. Disqualification. 16
+        * 44\. Disqualification. 16
 
-45\. Vacancy on happening of disqualification. 17
+        * 45\. Vacancy on happening of disqualification. 17
 
-46\. Penalty for sitting when disqualified. 17
+        * 46\. Penalty for sitting when disqualified. 17
 
-47\. Disputed elections. 18
+        * 47\. Disputed elections. 18
 
-48\. Allowance to members. 18
+        * 48\. Allowance to members. 18
 
-49\. Privileges, &c. of Houses. 18
+        * 49\. Privileges, &c. of Houses. 18
 
-50\. Rules and orders. 18
+        * 50\. Rules and orders. 18
 
-#### Part V.—Powers of the Parliament. 19
+    * Part V.—Powers of the Parliament. 19
 
-51\. Legislative powers of the Parliament. 19
+        * 51\. Legislative powers of the Parliament. 19
 
-52\. Exclusive powers of the Parliament. 21
+        * 52\. Exclusive powers of the Parliament. 21
 
-53\. Powers of the Houses in respect of legislation. 21
+        * 53\. Powers of the Houses in respect of legislation. 21
 
-54\. Appropriation Bills. 22
+        * 54\. Appropriation Bills. 22
 
-55\. Tax Bill. 22
+        * 55\. Tax Bill. 22
 
-56\. Recommendation of money votes. 23
+        * 56\. Recommendation of money votes. 23
 
-57\. Disagreement between the Houses. 23
+        * 57\. Disagreement between the Houses. 23
 
-58\. Royal assent to Bills. 24
+        * 58\. Royal assent to Bills. 24
 
-59\. Disallowance by the Queen. 24
+        * 59\. Disallowance by the Queen. 24
 
-60\. Signification of Queen's pleasure on Bills reserved. 24
+        * 60\. Signification of Queen's pleasure on Bills reserved. 24
 
-### Chapter II.---The Executive Government. 25
+* Chapter II.—The Executive Government. 25
 
-61\. Executive power. 25
+    * 61\. Executive power. 25
 
-62\. Federal Executive Council. 25
+    * 62\. Federal Executive Council. 25
 
-63\. Provisions referring to Governor-General. 25
+    * 63\. Provisions referring to Governor-General. 25
 
-64\. Ministers of State. 25
+    * 64\. Ministers of State. 25
 
-65\. Number of Ministers. 26
+    * 65\. Number of Ministers. 26
 
-66\. Salaries of Ministers. 26
+    * 66\. Salaries of Ministers. 26
 
-67\. Appointment of civil servants. 26
+    * 67\. Appointment of civil servants. 26
 
-68\. Command of naval and military forces. 26
+    * 68\. Command of naval and military forces. 26
 
-69\. Transfer of certain departments. 27
+    * 69\. Transfer of certain departments. 27
 
-70\. Certain powers of Governors to vest in Governor-General. 27
+    * 70\. Certain powers of Governors to vest in Governor-General. 27
 
-### Chapter III.---The Judicature. 28
+* Chapter III.—The Judicature. 28
 
-71\. Judicial power and Courts. 28
+    * 71\. Judicial power and Courts. 28
 
-72\. Judges' appointment, tenure, and remuneration. 28
+    * 72\. Judges' appointment, tenure, and remuneration. 28
 
-73\. Appellate jurisdiction of High Court. 28
+    * 73\. Appellate jurisdiction of High Court. 28
 
-74\. Appeal to Queen in Council. 29
+    * 74\. Appeal to Queen in Council. 29
 
-75\. Original jurisdiction of High Court. 30
+    * 75\. Original jurisdiction of High Court. 30
 
-76\. Additional original jurisdiction. 30
+    * 76\. Additional original jurisdiction. 30
 
-77\. Power to define jurisdiction. 30
+    * 77\. Power to define jurisdiction. 30
 
-78\. Proceedings against Commonwealth or State. 31
+    * 78\. Proceedings against Commonwealth or State. 31
 
-79\. Number of judges. 31
+    * 79\. Number of judges. 31
 
-80\. Trial by jury. 31
+    * 80\. Trial by jury. 31
 
-### Chapter IV.---Finance and Trade. 32
+* Chapter IV.—Finance and Trade. 32
 
-81\. Consolidated Revenue Fund. 32
+    * 81\. Consolidated Revenue Fund. 32
 
-82\. Expenditure charged thereon. 32
+    * 82\. Expenditure charged thereon. 32
 
-83\. Money to be appropriated by law. 32
+    * 83\. Money to be appropriated by law. 32
 
-84\. Transfer of officers. 32
+    * 84\. Transfer of officers. 32
 
-85\. Transfer of property of State. 33
+    * 85\. Transfer of property of State. 33
 
-86\. 34
+    * 86\. 34
 
-87\. 34
+    * 87\. 34
 
-88\. Uniform duties of customs. 35
+    * 88\. Uniform duties of customs. 35
 
-89\. Payment to States before uniform duties. 35
+    * 89\. Payment to States before uniform duties. 35
 
-90\. Exclusive power over customs, excise, and bounties. 35
+    * 90\. Exclusive power over customs, excise, and bounties. 35
 
-91\. Exceptions as to bounties. 36
+    * 91\. Exceptions as to bounties. 36
 
-92\. Trade within the Commonwealth to be free. 36
+    * 92\. Trade within the Commonwealth to be free. 36
 
-93\. Payment to States for five years after uniform Tariffs. 36
+    * 93\. Payment to States for five years after uniform Tariffs. 36
 
-94\. Distribution of surplus. 37
+    * 94\. Distribution of surplus. 37
 
-95\. Customs duties of Western Australia. 37
+    * 95\. Customs duties of Western Australia. 37
 
-96\. Financial assistance to States. 37
+    * 96\. Financial assistance to States. 37
 
-97\. Audit. 38
+    * 97\. Audit. 38
 
-98\. Trade and commerce includes navigation and State railways. 38
+    * 98\. Trade and commerce includes navigation and State railways. 38
 
-99\. Commonwealth not to give preference. 38
+    * 99\. Commonwealth not to give preference. 38
 
-100\. Nor abridge right to use water. 38
+    * 100\. Nor abridge right to use water. 38
 
-101\. Inter-State Commission. 38
+    * 101\. Inter-State Commission. 38
 
-102\. Parliament may forbid preferences by State. 39
+    * 102\. Parliament may forbid preferences by State. 39
 
-103\. Commissioners' appointment, tenure, and remuneration. 39
+    * 103\. Commissioners' appointment, tenure, and remuneration. 39
 
-104\. Saving of certain rates. 39
+    * 104\. Saving of certain rates. 39
 
-105\. Taking over public debts of States. 40
+    * 105\. Taking over public debts of States. 40
 
-### Chapter V.#The States. 41
+* Chapter V.—The States. 41
 
-106\. Saving of Constitutions. 41
+    * 106\. Saving of Constitutions. 41
 
-107\. Saving of Power of State Parliaments. 41
+    * 107\. Saving of Power of State Parliaments. 41
 
-108\. Saving of State laws. 41
+    * 108\. Saving of State laws. 41
 
-109\. Inconsistency of laws. 41
+    * 109\. Inconsistency of laws. 41
 
-110\. Provisions referring to Governor. 42
+    * 110\. Provisions referring to Governor. 42
 
-111\. States may surrender territory. 42
+    * 111\. States may surrender territory. 42
 
-112\. States may levy charges for inspection laws. 42
+    * 112\. States may levy charges for inspection laws. 42
 
-113\. Intoxicating liquids. 42
+    * 113\. Intoxicating liquids. 42
 
-114\. States may not raise forces. Taxation of property of Commonwealth
-or State. 42
+    * 114\. States may not raise forces. Taxation of property of Commonwealth or State. 42
 
-115\. States not to coin money. 43
+    * 115\. States not to coin money. 43
 
-116\. Commonwealth not to legislate in respect of religion. 43
+    * 116\. Commonwealth not to legislate in respect of religion. 43
 
-117\. Rights of residents in States. 43
+    * 117\. Rights of residents in States. 43
 
-118\. Recognition of laws & c. of States. 43
+    * 118\. Recognition of laws & c. of States. 43
 
-119\. Protection of States from invasion and violence. 43
+    * 119\. Protection of States from invasion and violence. 43
 
-120\. Custody of offenders against laws of the Commonwealth. 43
+    * 120\. Custody of offenders against laws of the Commonwealth. 43
 
-### Chapter VI.---New States. 44
+* Chapter VI.—New States. 44
 
-121\. New States may be admitted or established. 44
+    * 121\. New States may be admitted or established. 44
 
-122\. Government of territories. 44
+    * 122\. Government of territories. 44
 
-123\. Alteration of limits of States. 44
+    * 123\. Alteration of limits of States. 44
 
-124\. Formation of new States. 44
+    * 124\. Formation of new States. 44
 
-### Chapter VII.---Miscellaneous. 45
+* Chapter VII.—Miscellaneous. 45
 
-125\. Seat of Government. 45
+    * 125\. Seat of Government. 45
 
-126\. Power to Her Majesty to authorise Governor-General to appoint
-deputies. 45
+    * 126\. Power to Her Majesty to authorise Governor-General to appoint
+     deputies.
 
-127\. Aborigines not to be counted in reckoning population. 45
+    * 127\. Aborigines not to be counted in reckoning population. 45
 
-### Chapter VIII.---Alteration of the Constitution. 46
+* Chapter VIII.—Alteration of the Constitution. 46
 
-128\. Mode of altering the Constitution. 46
+    * 128\. Mode of altering the Constitution. 46
 
-### SCHEDULE. 48
+* SCHEDULE. 48
 
 An Act to constitute the Commonwealth of Australia.
 
