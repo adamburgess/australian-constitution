@@ -2,8 +2,6 @@
 
 As a git repository.
 
-Links:
-
 * [The latest Constitution of Australia](https://github.com/adamburgess/australian-constitution/blob/main/The%20Constitution%20of%20Australia.md)
 * [Line-by-line changes of the constitution. (git blame)](https://github.com/adamburgess/australian-constitution/blame/main/The%20Constitution%20of%20Australia.md)
 * [Changes to the constitution (git commit history)](https://github.com/adamburgess/australian-constitution/commits/main/The%20Constitution%20of%20Australia.md)
