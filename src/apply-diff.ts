@@ -23,6 +23,7 @@ export function applyDiff(text: string, diff: string) {
                 } else {
                     if (lines[i + lineIndex] !== diffLines[diffIndex].line) {
                         matches = false;
+                        console.log('fail match on line', lines[i + lineIndex]);
                         break;
                     }
                 }
@@ -37,5 +38,5 @@ export function applyDiff(text: string, diff: string) {
         }
     }
 
-    throw new Error('diff can not be applied');
+    throw new Error('diff can not be applied: ' + diff);
 }
