@@ -4,13 +4,10 @@ import from from '@adamburgess/linq'
 import { join } from 'path'
 import frontMatter from 'front-matter'
 import { applyDiff } from './apply-diff.js'
-import { promise as readdirp } from 'readdirp'
 import moment from 'dayjs'
 import customParseFormat from 'dayjs/plugin/customParseFormat'
-import isSameOrAfter from 'dayjs/plugin/isSameOrAfter'
 import utc from 'dayjs/plugin/utc'
 moment.extend(customParseFormat);
-moment.extend(isSameOrAfter);
 moment.extend(utc);
 
 function sanitiseGitDate(date: string | undefined) {
@@ -69,20 +66,12 @@ await git(['commit', '-m', 'Commonwealth of Australia Constitution Act (The Cons
 // If the referendum is carried, ffw merge the main branch to it.
 // Otherwise leave it be.
 
-//const refDirs = (await fs.readdir('../referendums', { recursive: true, withFileTypes: true }))
-//    .filter(dir => dir.isDirectory())
-//    .map(dir => join(dir.path, dir.name));
-// const refDirs = (await readdirp('../referendums', { type: 'directories' }))
-//     .map(d => join('../referendums', d.path));
-
 const referendumYears = from(await fs.readdir('../referendums'))
     .map(dir => join('../referendums', dir))
     .where(dir => !dir.includes('1899') && dir.split('/').length)
     .orderBy(dir => dir);
 
 let branches: string[] = [];
-
-let toMerge: { branch: string, date: string }[] = [];
 
 for (const year of referendumYears) {
     const referendums = await Promise.all((await fs.readdir(year)).map(r => join(year, r))
@@ -124,8 +113,9 @@ for (const year of referendumYears) {
 // Push all.
 
 await git(['remote', 'add', 'origin', 'ssh://git@git.adam.id.au:222/adamburgess/australian-constitution.git'])
-//await git(['remote', 'add', 'origin', 'ssh://git@github.com/adamburgess/australian-constitution.git'])
-await git(['push', '-u', 'origin', '-f', 'main', ...branches]);
+await git(['remote', 'add', 'gh', 'ssh://git@github.com/adamburgess/australian-constitution.git'])
+await git(['push', 'origin', '-f', 'main', ...branches]);
+await git(['push', 'gh', '-f', 'main', ...branches]);
 
 interface Info {
     outcome: 'carried' | 'rejected' | 'pending'
@@ -135,21 +125,4 @@ interface Info {
     wiki: string
     election_date: string
     effective_date: string
-}
-
-async function mergeInReferendums(currentDate: string) {
-    while (toMerge.length) {
-        let { branch, date } = toMerge[0];
-
-        console.log('checking if can merge', branch, 'from', date, 'to', currentDate);
-
-        if (!moment(currentDate, 'DD/MM/YYYY').isSameOrAfter(moment(date, 'DD/MM/YYYY'),)) {
-            return;
-        }
-
-        toMerge.shift();
-
-        // should already be on master.
-        await git(['merge', branch]);
-    }
 }
