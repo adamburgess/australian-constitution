@@ -7,15 +7,23 @@ import { applyDiff } from './apply-diff.js'
 import { promise as readdirp } from 'readdirp'
 import moment from 'dayjs'
 import customParseFormat from 'dayjs/plugin/customParseFormat'
+import isSameOrAfter from 'dayjs/plugin/isSameOrAfter'
+import utc from 'dayjs/plugin/utc'
 moment.extend(customParseFormat);
+moment.extend(isSameOrAfter);
+moment.extend(utc);
 
 function sanitiseGitDate(date: string | undefined) {
     if (!date) return undefined;
     const [day, month, year] = date.split('/');
     if (parseInt(year) < 1970) {
-        return '1970-01-01 10:00:00 +1000'; // :(
+        // remap into a 24 hour period.
+        const totalSeconds = moment('1970-01-01').unix() - moment('1901-01-01').unix();
+        const ratio = (moment(date, 'DD/MM/YYYY').unix() - moment('1901-01-01').unix()) / totalSeconds;
+        const unixed = moment.unix(ratio * 86400);
+        return `${unixed.format('YYYY-MM-DD HH:mm:ss')}`;
     }
-    return `${year}-${month}-${day} 10:00:00 +1000`;
+    return `${year}-${month}-${day} 10:00:00`;
 }
 
 async function git(args: string[], date?: { author: string, committer: string }) {
@@ -64,47 +72,54 @@ await git(['commit', '-m', 'Commonwealth of Australia Constitution Act (The Cons
 //const refDirs = (await fs.readdir('../referendums', { recursive: true, withFileTypes: true }))
 //    .filter(dir => dir.isDirectory())
 //    .map(dir => join(dir.path, dir.name));
-const refDirs = (await readdirp('../referendums', { type: 'directories' }))
-    .map(d => join('../referendums', d.path));
+// const refDirs = (await readdirp('../referendums', { type: 'directories' }))
+//     .map(d => join('../referendums', d.path));
 
-const referendumDirs = from(refDirs)
-    .where(dir => !dir.includes('1899') && dir.split('/').length === 4)
+const referendumYears = from(await fs.readdir('../referendums'))
+    .map(dir => join('../referendums', dir))
+    .where(dir => !dir.includes('1899') && dir.split('/').length)
     .orderBy(dir => dir);
 
 let branches: string[] = [];
 
 let toMerge: { branch: string, date: string }[] = [];
 
-for (const dir of referendumDirs) {
-    const infoMd = await fs.readFile(join(dir, 'info.md'), 'utf8');
-    const info = frontMatter(infoMd).attributes as Info;
+for (const year of referendumYears) {
+    const referendums = await Promise.all((await fs.readdir(year)).map(r => join(year, r))
+        .sort()
+        .map(async r => {
+            const infoMd = await fs.readFile(join(r, 'info.md'), 'utf8');
+            const info = frontMatter(infoMd).attributes as Info;
+            return {
+                dir: r,
+                info
+            }
+        }));
 
-    await mergeInReferendums(info.election_date ?? '01/01/5000');
+    for (const { dir, info } of from(referendums).orderBy(x => x.info.outcome === 'carried' ? 1 : 0)) {
+        const diffs = (await fs.readdir(dir)).filter(f => f.endsWith('diff')).sort();
+        if (diffs.length === 0) continue;
 
-    const branchName = dir.split('/').at(-1)!;
-    branches.push(branchName);
+        const branchName = dir.split('/').at(-1)!;
+        branches.push(branchName);
 
-    await git(['switch', '-c', branchName]);
-    // apply changes
-    const diffs = (await fs.readdir(dir)).filter(f => f.endsWith('diff')).sort();
-    for (const fn of diffs) {
-        const diff = await fs.readFile(join(dir, fn), 'utf8');
-        await fs.writeFile(constititionFilename, applyDiff(await fs.readFile(constititionFilename, 'utf8'), diff));
+        await git(['switch', '-c', branchName]);
+        // apply changes
+        for (const fn of diffs) {
+            const diff = await fs.readFile(join(dir, fn), 'utf8');
+            await fs.writeFile(constititionFilename, applyDiff(await fs.readFile(constititionFilename, 'utf8'), diff));
+        }
+        await git(['commit', '-am', info.name], { author: info.election_date, committer: info.effective_date });
+
+        // swap back to main..
+        await git(['switch', 'main']);
+
+        if (info.outcome === 'carried') {
+            // merge it in
+            await git(['merge', '--ff-only', branchName]);
+        }
     }
-    await git(['commit', '-am', info.name], { author: info.election_date, committer: info.effective_date });
-
-    if (info.outcome === 'carried') {
-        toMerge.push({
-            branch: branchName,
-            date: info.effective_date
-        });
-    }
-
-    // swap back to main..
-    await git(['switch', 'main']);
 }
-
-await mergeInReferendums('01/01/5000');
 
 // Push all.
 
@@ -128,13 +143,13 @@ async function mergeInReferendums(currentDate: string) {
 
         console.log('checking if can merge', branch, 'from', date, 'to', currentDate);
 
-        if (!moment(currentDate, 'DD/MM/YYYY').isAfter(moment(date, 'DD/MM/YYYY'))) {
+        if (!moment(currentDate, 'DD/MM/YYYY').isSameOrAfter(moment(date, 'DD/MM/YYYY'),)) {
             return;
         }
 
         toMerge.shift();
 
         // should already be on master.
-        await git(['merge', '--ff-only', branch]);
+        await git(['merge', branch]);
     }
 }

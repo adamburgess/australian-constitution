@@ -4,8 +4,7 @@
     "dependencies": {
         "@adamburgess/linq": "^3.0.0",
         "dayjs": "^1.11.9",
-        "front-matter": "^4.0.2",
-        "readdirp": "^3.6.0"
+        "front-matter": "^4.0.2"
     },
     "devDependencies": {
         "@types/node": "^20.4.5"
