@@ -24,8 +24,8 @@ async function git(args: string[], date?: { author: string, committer: string })
     if (!date) {
         env.GIT_COMMITTER_DATE = env.GIT_AUTHOR_DATE = sanitiseGitDate('01/01/1970');
     } else if (date?.author) {
-        args[args.length - 1] = `${date.author}: ${args[args.length - 1]}`;
-        env.GIT_COMMITTER_DATE = sanitiseGitDate(date.committer);
+        args[args.length - 1] = `${date.committer ?? date.author}: ${args[args.length - 1]}`;
+        env.GIT_COMMITTER_DATE = sanitiseGitDate(date.committer ?? date.author);
         env.GIT_AUTHOR_DATE = sanitiseGitDate(date.author);
     } else {
         args[args.length - 1] = `Pending: ${args[args.length - 1]}`;
@@ -109,6 +109,7 @@ await mergeInReferendums('01/01/5000');
 // Push all.
 
 await git(['remote', 'add', 'origin', 'ssh://git@git.adam.id.au:222/adamburgess/australian-constitution.git'])
+//await git(['remote', 'add', 'origin', 'ssh://git@github.com/adamburgess/australian-constitution.git'])
 await git(['push', '-u', 'origin', '-f', 'main', ...branches]);
 
 interface Info {
