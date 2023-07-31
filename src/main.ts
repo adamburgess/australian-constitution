@@ -65,25 +65,31 @@ await git(['commit', '-m', 'Commonwealth of Australia Constitution Act (The Cons
 //  todo: create a github pr.
 // If the referendum is carried, ffw merge the main branch to it.
 // Otherwise leave it be.
-
 const referendumYears = from(await fs.readdir('../referendums'))
-    .map(dir => join('../referendums', dir))
+    .map(dir => {
+        console.log(typeof dir);
+        console.log('dir', dir);
+        return join('../referendums', dir);
+    })
     .where(dir => !dir.includes('1899') && dir.split('/').length)
-    .orderBy(dir => dir);
+    .orderBy(dir => dir)
+    .toArray();
+
 
 let branches: string[] = [];
-
 for (const year of referendumYears) {
-    const referendums = await Promise.all((await fs.readdir(year)).map(r => join(year, r))
+    const referendums = (await Promise.all((await fs.readdir(year)).map(r => join(year, r))
         .sort()
         .map(async r => {
-            const infoMd = await fs.readFile(join(r, 'info.md'), 'utf8');
-            const info = frontMatter(infoMd).attributes as Info;
-            return {
-                dir: r,
-                info
-            }
-        }));
+            try {
+                const infoMd = await fs.readFile(join(r, 'info.md'), 'utf8');
+                const info = frontMatter(infoMd).attributes as Info;
+                return {
+                    dir: r,
+                    info
+                }
+            } catch (e) { return undefined; }
+        }))).filter(x => x) as ({ dir: string, info: Info }[]);
 
     for (const { dir, info } of from(referendums).orderBy(x => x.info.outcome === 'carried' ? 1 : 0)) {
         const diffs = (await fs.readdir(dir)).filter(f => f.endsWith('diff')).sort();
@@ -114,8 +120,8 @@ for (const year of referendumYears) {
 
 await git(['remote', 'add', 'origin', 'ssh://git@git.adam.id.au:222/adamburgess/australian-constitution.git'])
 await git(['remote', 'add', 'gh', 'ssh://git@github.com/adamburgess/australian-constitution.git'])
-await git(['push', 'origin', '-f', 'main', ...branches]);
-await git(['push', 'gh', '-f', 'main', ...branches]);
+//await git(['push', 'origin', '-f', 'main', ...branches]);
+//await git(['push', 'gh', '-f', 'main', ...branches]);
 
 interface Info {
     outcome: 'carried' | 'rejected' | 'pending'
