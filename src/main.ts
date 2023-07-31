@@ -120,8 +120,10 @@ for (const year of referendumYears) {
 
 await git(['remote', 'add', 'origin', 'ssh://git@git.adam.id.au:222/adamburgess/australian-constitution.git'])
 await git(['remote', 'add', 'gh', 'ssh://git@github.com/adamburgess/australian-constitution.git'])
-//await git(['push', 'origin', '-f', 'main', ...branches]);
-//await git(['push', 'gh', '-f', 'main', ...branches]);
+if (process.argv.includes('push')) {
+    await git(['push', 'origin', '-f', 'main', ...branches]);
+    await git(['push', 'gh', '-f', 'main', ...branches]);
+}
 
 interface Info {
     outcome: 'carried' | 'rejected' | 'pending'

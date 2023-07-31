@@ -7,6 +7,6 @@
         "front-matter": "^4.0.2"
     },
     "devDependencies": {
-        "@types/node": "^20.4.5"
+        "@types/node": "^20.4.6"
     }
 }
