@@ -153,6 +153,8 @@
     * [126. Power to Her Majesty to authorise Governor-General to appoint deputies.](#126-power-to-her-majesty-to-authorise-governor-general-to-appoint)
 * [Chapter VIII.—Alteration of the Constitution.](#chapter-viiialteration-of-the-constitution)
     * [128. Mode of altering the Constitution.](#128-mode-of-altering-the-constitution)
+* [Chapter IX.—Recognition of Aboriginal and Torres Strait Islander Peoples.](#chapter-ixrecognition-of-aboriginal-and-torres-strait-islander-peoples)
+    * [129. Aboriginal and Torres Strait Islander Voice.](#129-aboriginal-and-torres-strait-islander-voice)
 * [SCHEDULE.](#schedule)
 
 ## An Act to constitute the Commonwealth of Australia.
@@ -266,6 +268,7 @@ This Constitution is divided as follows:—
 * Chapter VI. New States:
 * Chapter VII. Miscellaneous:
 * Chapter VIII. Alteration of the Constitution.
+* Chapter IX. Recognition of Aboriginal and Torres Strait Islander Peoples.
 * The Schedule.
 
 ## Chapter I.—The Parliament.
@@ -1945,6 +1948,20 @@ In this section, 'Territory' means any territory referred to in section
 one hundred and twenty-two of this Constitution in respect of which there
 is in force a law allowing its representation in the House of Representatives.
 
+## Chapter IX.—Recognition of Aboriginal and Torres Strait Islander Peoples.
+
+#### 129. Aboriginal and Torres Strait Islander Voice.
+
+In recognition of Aboriginal and Torres Strait Islander peoples as the First Peoples
+of Australia:
+(i) there shall be a body, to be called the Aboriginal and Torres Strait Islander Voice;
+(ii) the Aboriginal and Torres Strait Islander Voice may make representations to the
+Parliament and the Executive Government of the Commonwealth on matters
+relating to Aboriginal and Torres Strait Islander peoples;
+(iii) the Parliament shall, subject to this Constitution, have power to make laws with
+respect to matters relating to the Aboriginal and Torres Strait Islander Voice,
+including its composition, functions, powers and procedures.
+ 
 ## SCHEDULE.
 
 #### OATH.
